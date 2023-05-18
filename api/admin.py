@@ -13,7 +13,41 @@ class MyUserAdmin(UserAdmin):
     model = User
     list_display = ("email", "id")
     search_fields = ("email", "first_name", "last_name")
-    ordering = ("email", )
+    ordering = ("email",)
+    readonly_fields = ["date_joined"]
+    fieldset = (
+        (None, {"fields": ("email", "password")}),
+        ("Personal info", {"fields": (
+            "email",
+            "first_name",
+            "last_name",
+            "surname",
+            "profession",
+        )
+        }),
+        (
+            "Permissions",
+            {
+                "fields": (
+                    "is_active",
+                    "is_staff",
+                    "is_superuser",
+                    "groups",
+                    "user_permissions",
+                ),
+            },
+        ),
+        ("Important dates", {"fields": ("last_login", "date_joined")}),
+    )
+    add_fieldsets = (
+        (
+            None,
+            {
+                "classes": ("wide",),
+                "fields": ("first_name", "last_name", "surname", "profession", "password1", "password2"),
+            },
+        ),
+    )
 
 
 class AdAdmin(admin.ModelAdmin):
