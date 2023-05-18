@@ -1,0 +1,78 @@
+[
+  {
+    "model": "api.user",
+    "pk": 4,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$zyY7Ofmpr7Ykr4MswUIKq3$NiJJ8Fymd+aCzejtdygXxc7jl4WR8vVyRmfJGAYgRjw=",
+      "last_login": "",
+      "is_superuser": false,
+      "date_joined": "2023-05-10T21:30:06.709Z",
+      "email": "2@mail.com",
+      "first_name": "Попов",
+      "last_name": "Денис",
+      "surname": "Александрович",
+      "is_active": true,
+      "is_staff": true,
+      "profession": "ST",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "api.user",
+    "pk": 5,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$zyY7Ofmpr7Ykr4MswUIKq3$NiJJ8Fymd+aCzejtdygXxc7jl4WR8vVyRmfJGAYgRjw=",
+      "last_login": "",
+      "is_superuser": false,
+      "date_joined": "2023-05-10T21:30:06.709Z",
+      "email": "3@mail.com",
+      "first_name": "Иванов",
+      "last_name": "Марат",
+      "surname": "Юсупович",
+      "is_active": true,
+      "is_staff": true,
+      "profession": "ST",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "api.user",
+    "pk": 6,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$zyY7Ofmpr7Ykr4MswUIKq3$NiJJ8Fymd+aCzejtdygXxc7jl4WR8vVyRmfJGAYgRjw=",
+      "last_login": "",
+      "is_superuser": false,
+      "date_joined": "2023-05-10T21:30:06.709Z",
+      "email": "4@mail.com",
+      "first_name": "Олег",
+      "last_name": "Бочкарев",
+      "surname": "Владимирович",
+      "is_active": true,
+      "is_staff": true,
+      "profession": "ST",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "api.user",
+    "pk": 7,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$zyY7Ofmpr7Ykr4MswUIKq3$NiJJ8Fymd+aCzejtdygXxc7jl4WR8vVyRmfJGAYgRjw=",
+      "last_login": "",
+      "is_superuser": false,
+      "date_joined": "2023-05-10T21:30:06.709Z",
+      "email": "5@mail.com",
+      "first_name": "Анна",
+      "last_name": "Павлова",
+      "surname": "Александровна",
+      "is_active": true,
+      "is_staff": true,
+      "profession": "ST",
+      "groups": [],
+      "user_permissions": []
+    }
+  }
+]
