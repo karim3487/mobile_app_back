@@ -1,0 +1,92 @@
+[
+  {
+    "model": "api.ad",
+    "fields": {
+      "created_at": "2023-05-18T20:42:24.460Z",
+      "updated_at": "2023-05-18T20:42:24.460Z",
+      "creator": 3,
+      "title": "Новая новость",
+      "text": "Diam, et ligula vel risus Maecenas laoreet elit. bibendum at Nullam ultricies massa ullamcorper libero diam, fermentum luctus. tortor bibendum a ultricies vel Nullam fringilla. ipsum ante sit consectetur et at Lorem ante mauris non libero fringilla. Lorem Nullam tellus bibendum amet eu Nullam a ligula sit tincidunt eu ut amet ut elit. dolor, mauris et vestibulum dolor ut Donec adipiscing elit. vel malesuada ante non consectetur amet, luctus. Maecenas malesuada ligula risus at laoreet suscipit consectetur risus sapien risus nibh ullamcorper eu consectetur ligula et tristique. bibendum a ultricies dolor, risus vestibulum tristique. tellus fringilla. mauris tortor sapien lacinia."
+    }
+  },
+  {
+    "model": "api.ad",
+    "fields": {
+      "created_at": "2023-05-18T20:45:12.735Z",
+      "updated_at": "2023-05-18T20:45:12.735Z",
+      "creator": 2,
+      "title": "Увлекательная статья",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at tristique orci. Vestibulum efficitur semper mauris a tristique. Cras convallis felis eget aliquam tristique. Sed congue tortor eu enim rhoncus, et scelerisque sapien hendrerit. Ut consectetur, nisl at semper lacinia, lectus diam venenatis nulla, sit amet dapibus lorem tellus vel nunc. Curabitur non metus vitae mi sagittis fermentum in in turpis. Sed eleifend ligula vitae mauris condimentum, eu fringilla nulla dapibus. Morbi sollicitudin neque eu lectus sollicitudin, id congue tortor dictum. Nunc interdum enim at sagittis malesuada. Quisque at libero fermentum, tempus ligula a, scelerisque odio. Sed efficitur ligula et nisi rhoncus, non interdum enim aliquet. Curabitur commodo efficitur sapien vitae interdum. Duis ut tortor dapibus, laoreet eros ac, commodo libero. Quisque semper convallis sem, eu consequat dui congue at."
+    }
+  },
+  {
+    "model": "api.ad",
+    "fields": {
+      "created_at": "2023-05-18T20:48:59.892Z",
+      "updated_at": "2023-05-18T20:48:59.892Z",
+      "creator": 1,
+      "title": "Горячая новость",
+      "text": "Fusce id sollicitudin est. Phasellus viverra tincidunt nisl, in scelerisque ipsum ullamcorper nec. Quisque vitae mauris eget nisl pulvinar tristique. Nam cursus ante vitae elementum vestibulum. Mauris volutpat orci et tellus vehicula, vel elementum nisl tempor. Sed at urna feugiat, mattis dolor et, bibendum quam. Aenean id malesuada ex. Mauris fringilla dui nec rhoncus tincidunt. Etiam feugiat scelerisque convallis. Sed eget condimentum metus. Sed non est ac arcu maximus auctor. Morbi cursus orci at odio convallis, ut fringilla metus tincidunt. Vestibulum condimentum enim vitae arcu blandit, vitae tristique metus hendrerit. Morbi dictum nisi at consequat semper. Nullam dictum tellus quis erat cursus, nec rhoncus nisl aliquam. Donec vel sapien rhoncus, pulvinar ligula a, efficitur nisl."
+    }
+  },
+  {
+    "model": "api.ad",
+    "fields": {
+      "created_at": "2023-05-18T20:52:30.115Z",
+      "updated_at": "2023-05-18T20:52:30.115Z",
+      "creator": 5,
+      "title": "Интересный материал",
+      "text": "Aliquam eget iaculis ligula, eget cursus est. Integer pretium tincidunt ligula, vel tincidunt est mattis id. Suspendisse potenti. Nam gravida risus sed urna vestibulum, et euismod dui commodo. Maecenas rutrum facilisis tellus, a pharetra massa sollicitudin et. Vestibulum pretium orci non dictum fermentum. Vestibulum vestibulum, tortor nec condimentum cursus, lectus leo vestibulum justo, vitae sagittis ex nunc in tortor. Nulla efficitur dapibus facilisis. Suspendisse quis eros tincidunt, sollicitudin odio eu, maximus risus. Phasellus condimentum accumsan dapibus. Suspendisse potenti. Cras fringilla turpis eu metus malesuada, in pellentesque sem viverra. Integer convallis turpis nec gravida vestibulum. Sed faucibus, dolor vitae placerat dapibus, velit eros volutpat nisi, vel vulputate sem lorem ac ex. Nullam interdum orci sed elit scelerisque fringilla."
+    }
+  },
+  {
+    "model": "api.ad",
+    "fields": {
+      "created_at": "2023-05-18T20:56:05.643Z",
+      "updated_at": "2023-05-18T20:56:05.643Z",
+      "creator": 4,
+      "title": "Важное объявление",
+      "text": "Vestibulum finibus est vitae tortor varius feugiat. Curabitur fringilla arcu et orci viverra, at vulputate leo ultrices. Donec vel mauris a lectus maximus rutrum id quis metus. Nulla facilisi. Nam commodo enim at risus consequat scelerisque. Suspendisse luctus sapien vel ligula vulputate, sit amet rhoncus neque scelerisque. Mauris cursus nisi in massa venenatis condimentum. In hac habitasse platea dictumst. Aenean a elementum nunc. Morbi at eros cursus, fermentum nunc nec, posuere erat. Sed dapibus, est id bibendum laoreet, lorem turpis consectetur lectus, id placerat lorem nibh vitae ante. Nam consequat laoreet leo sed pharetra. Quisque auctor sapien sit amet ligula scelerisque rutrum. Fusce vitae efficitur sapien."
+    }
+  },
+  {
+    "model": "api.ad",
+    "fields": {
+      "created_at": "2023-05-18T21:01:02.932Z",
+      "updated_at": "2023-05-18T21:01:02.932Z",
+      "creator": 1,
+      "title": "Последние новости",
+      "text": "Cras condimentum eleifend nibh, ut laoreet est aliquet at. Nulla facilisi. Sed interdum lectus eget enim egestas, eu rhoncus arcu efficitur. Mauris luctus arcu et enim posuere, at luctus lacus tristique. In rhoncus pharetra nibh at vulputate. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque nec aliquam mi, vitae faucibus nisi. Aliquam dignissim consectetur eros, at tempor nisl vestibulum in. Aenean cursus metus et efficitur tempus. Proin vel magna malesuada, finibus est eu, vulputate tellus. Morbi ut dictum metus. Fusce maximus urna nec mauris tincidunt, ut fringilla metus iaculis. Curabitur nec varius justo, vitae pellentesque velit. Ut consequat a nulla vitae auctor. In hac habitasse platea dictumst."
+    }
+  },
+  {
+    "model": "api.ad",
+    "fields": {
+      "created_at": "2023-05-18T21:04:48.751Z",
+      "updated_at": "2023-05-18T21:04:48.751Z",
+      "creator": 3,
+      "title": "Заголовок новости",
+      "text": "Pellentesque et massa lobortis, malesuada dui id, rhoncus purus. Aenean tincidunt turpis at mauris pharetra, sed ultricies odio eleifend. Mauris suscipit, lacus vitae consectetur cursus, sem justo feugiat lectus, at euismod leo dui at nunc. Proin ut nisi sit amet nisl rhoncus malesuada. Nam a velit a orci hendrerit rhoncus. Quisque placerat commodo libero ac lacinia. Morbi ultrices purus nec elementum vehicula. Suspendisse a mauris ut urna pellentesque efficitur. Proin tincidunt purus felis, id egestas purus finibus at. Fusce feugiat, velit non fermentum dignissim, enim mi hendrerit metus, eget vulputate nisi dolor sed turpis. Suspendisse eleifend dolor vel diam efficitur, in placerat quam feugiat. Integer sit amet purus dignissim, eleifend ligula nec, tempus tortor."
+    }
+  },
+  {
+    "model": "api.ad",
+    "fields": {
+      "created_at": "2023-05-18T21:09:15.820Z",
+      "updated_at": "2023-05-18T21:09:15.820Z",
+      "creator": 6,
+      "title": "Новости дня",
+      "text": "Nulla facilisi. In hendrerit nibh in erat ultrices, at elementum risus eleifend. Suspendisse potenti. Duis vitae facilisis justo, eget sollicitudin lectus. Proin tincidunt tellus urna, vel sollicitudin est consequat vitae. Pellentesque efficitur mi sed nunc egestas bibendum. Integer faucibus, ex eu dignissim fermentum, sem metus dapibus nisl, eu efficitur arcu erat id nunc. Pellentesque auctor nulla in ex consequat, vitae fermentum nulla sollicitudin. Morbi pharetra augue nec finibus tempus. Aliquam sit amet enim tellus. Suspendisse ac nulla id sapien lobortis ultricies. In hac habitasse platea dictumst. Sed nec dui auctor, facilisis quam et, posuere massa. Donec ut laoreet purus. Suspendisse ut diam auctor, cursus mauris vitae, pulvinar orci. Fusce nec gravida justo."
+    }
+  },
+  {
+    "model": "api.ad",
+    "fields": {
+      "created_at": "2023-05-18T21:13:01.285Z",
+      "updated_at": "2023-05-18T21:13:01.285Z",
+      "creator": 1,
+      "title": "Новость недели",
+      "text": "Aenean eu justo nisi. Maecenas id purus in lorem faucibus faucibus. Vivamus a erat vitae enim ullamcorper pulvinar. Suspendisse potenti. Fusce id enim interdum, eleifend risus vitae, convallis justo. Sed eu nunc sit amet felis luctus faucibus. Sed cursus sapien a nibh finibus, id dignissim ligula tristique. Ut accumsan, ex eu tristique tempor, purus odio viverra metus, vitae fringilla felis lacus nec ex. Mauris laoreet venenatis massa nec gravida. Aliquam erat volutpat. Sed ut ipsum vel urna blandit convallis. Aliquam nec purus sit amet ipsum cursus sollicitudin. Sed finibus urna vel lorem aliquam, a dapibus lectus condimentum. Nam tincidunt facilisis ultrices. Aliquam ornare, urna sit amet convallis lacinia, erat mauris condimentum nisi, vitae rhoncus nisl nibh in turpis. Integer nec odio eu mauris dignissim hendrerit sit amet at ante."
+    }
+  }
+]

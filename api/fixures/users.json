@@ -1,7 +1,6 @@
 [
   {
     "model": "api.user",
-    "pk": 4,
     "fields": {
       "password": "pbkdf2_sha256$600000$zyY7Ofmpr7Ykr4MswUIKq3$NiJJ8Fymd+aCzejtdygXxc7jl4WR8vVyRmfJGAYgRjw=",
       "is_superuser": false,
@@ -19,7 +18,6 @@
   },
   {
     "model": "api.user",
-    "pk": 5,
     "fields": {
       "password": "pbkdf2_sha256$600000$zyY7Ofmpr7Ykr4MswUIKq3$NiJJ8Fymd+aCzejtdygXxc7jl4WR8vVyRmfJGAYgRjw=",
       "is_superuser": false,
@@ -37,7 +35,6 @@
   },
   {
     "model": "api.user",
-    "pk": 6,
     "fields": {
       "password": "pbkdf2_sha256$600000$zyY7Ofmpr7Ykr4MswUIKq3$NiJJ8Fymd+aCzejtdygXxc7jl4WR8vVyRmfJGAYgRjw=",
       "is_superuser": false,
@@ -55,7 +52,6 @@
   },
   {
     "model": "api.user",
-    "pk": 7,
     "fields": {
       "password": "pbkdf2_sha256$600000$zyY7Ofmpr7Ykr4MswUIKq3$NiJJ8Fymd+aCzejtdygXxc7jl4WR8vVyRmfJGAYgRjw=",
       "is_superuser": false,
