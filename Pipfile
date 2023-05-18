@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "*"
+djangorestframework = "*"
+django-rest-multiple-models = "*"
+django-cors-headers = "*"
+django-debug-toolbar = "*"
+psycopg2-binary = "*"
+coreapi = "*"
+drf-yasg = "*"
+django-swagger-ui = "*"
+drf-access-policy = "*"
+serializers = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
