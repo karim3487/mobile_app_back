@@ -1,7 +1,7 @@
 from django.contrib import admin
 from django.contrib.auth.admin import UserAdmin
 
-from .models import Attachment
+from .models import Attachment, Professor, Group, WeekDayTable, Subject, DaySubject, WeekTimetable
 from .models.chat import Chat, Participant
 from .models.teachers import Teacher
 from .models.user import User
@@ -89,4 +89,10 @@ admin.site.register(Participant, ParticipantAdmin)
 admin.site.register(Message, MessageAdmin)
 admin.site.register(Attachment)
 admin.site.register(Teacher)
+admin.site.register(Professor)
+admin.site.register(Group)
+admin.site.register(WeekDayTable)
+admin.site.register(Subject)
+admin.site.register(DaySubject)
+admin.site.register(WeekTimetable)
 

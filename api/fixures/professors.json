@@ -1,0 +1,5663 @@
+[
+  {
+    "model": "api.professor",
+    "pk": 1,
+    "fields": {
+      "full_name": "\u0413\u0443\u0441\u0435\u0432\u0430 \u0412.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 2,
+    "fields": {
+      "full_name": "\u041e\u0445\u043e\u0447\u0438\u043d\u0441\u043a\u0438\u0439 \u041c.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 3,
+    "fields": {
+      "full_name": "\u0424\u0435\u0434\u043e\u0440\u043e\u0432  \u0410.\u041c.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 4,
+    "fields": {
+      "full_name": "\u041f\u0430\u0434\u0430\u043b\u043a\u0430 \u041c.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 5,
+    "fields": {
+      "full_name": "\u041a\u0438\u0440\u0448\u0438\u043d \u0410.\u042e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 6,
+    "fields": {
+      "full_name": "\u041a\u0443\u0434\u0440\u043e\u0432 \u0410.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 7,
+    "fields": {
+      "full_name": "\u0421\u0435\u043c\u0435\u043d\u043e\u0432 \u0410.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 8,
+    "fields": {
+      "full_name": "\u0421\u0430\u0432\u0435\u043b\u044c\u0435\u0432 \u0421.\u041a.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 9,
+    "fields": {
+      "full_name": "\u041a\u0440\u0430\u0432\u0447\u0435\u043d\u043a\u043e \u0414.\u0413.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 10,
+    "fields": {
+      "full_name": "\u0421\u044f\u0442\u0447\u0438\u0445\u0438\u043d \u0410.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 11,
+    "fields": {
+      "full_name": "\u0411\u0443\u0442\u043e\u0440\u0438\u043d\u0430 \u041c.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 12,
+    "fields": {
+      "full_name": "\u041c\u0435\u043b\u0438\u0445\u043e\u0432 \u041a.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 13,
+    "fields": {
+      "full_name": "\u041a\u0443\u043a\u043b\u0438\u043d \u0414.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 14,
+    "fields": {
+      "full_name": "\u0417\u044b\u043a\u043e\u0432 \u0421.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 15,
+    "fields": {
+      "full_name": "\u042f\u043b\u044b\u0447 \u0415.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 16,
+    "fields": {
+      "full_name": "\u041c\u0430\u0441\u043b\u043e\u0432 \u0414.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 17,
+    "fields": {
+      "full_name": "\u042f\u0440\u043e\u0448\u0435\u0432\u0441\u043a\u0430\u044f \u0415.\u042e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 18,
+    "fields": {
+      "full_name": "\u0428\u0438\u0448\u043a\u0438\u043d \u0410.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 19,
+    "fields": {
+      "full_name": "\u041d\u0438\u043a\u043e\u043b\u044c\u0447\u0435\u043d\u043a\u043e \u042e.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 20,
+    "fields": {
+      "full_name": "\u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432 \u041a.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 21,
+    "fields": {
+      "full_name": "\u041a\u0443\u0434\u0430\u0435\u0432 \u0410.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 22,
+    "fields": {
+      "full_name": "\u0410\u0432\u0444\u0435\u0440\u043e\u043d\u043e\u043a \u0421.\u042d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 23,
+    "fields": {
+      "full_name": "\u0421\u043c\u0438\u0440\u043d\u043e\u0432\u0430 \u041c.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 24,
+    "fields": {
+      "full_name": "\u041a\u0438\u0440\u0448\u0438\u043d\u0430 \u0410.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 25,
+    "fields": {
+      "full_name": "\u0427\u0438\u0440\u0438\u043a\u043e\u0432 \u0421.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 26,
+    "fields": {
+      "full_name": "\u0412\u0430\u0441\u0438\u043b\u044c\u0435\u0432\u0430 \u0412.\u041a.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 27,
+    "fields": {
+      "full_name": "\u041c\u0430\u0441\u043b\u043e\u0432 \u0410.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 28,
+    "fields": {
+      "full_name": "\u0421\u0430\u043d\u0441\u0438\u0435\u0432 \u0412.\u0413.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 29,
+    "fields": {
+      "full_name": "\u0421\u0430\u0432\u0430\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u0410.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 30,
+    "fields": {
+      "full_name": "\u0421\u043f\u0438\u0440\u0438\u0434\u043e\u043d\u043e\u0432 \u0414.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 31,
+    "fields": {
+      "full_name": "\u0424\u0435\u0434\u043e\u0440\u043e\u0432 \u0414.\u041b.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 32,
+    "fields": {
+      "full_name": "\u041a\u043e\u0447\u0435\u0442\u043a\u043e\u0432  \u0410.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 33,
+    "fields": {
+      "full_name": "\u0413\u043e\u043b\u0438\u043a\u043e\u0432\u0430 \u0412.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 34,
+    "fields": {
+      "full_name": "\u0421\u0438\u0437\u043e\u0432\u0430 \u0410.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 35,
+    "fields": {
+      "full_name": "\u0412\u0438\u043d\u043d\u0438\u043a \u041f.\u041c.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 36,
+    "fields": {
+      "full_name": "\u0421\u0435\u0434\u044b\u0445 \u041b.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 37,
+    "fields": {
+      "full_name": "\u041a\u043e\u0447\u0435\u0442\u043a\u043e\u0432\u0430 \u0422.\u041f.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 38,
+    "fields": {
+      "full_name": "\u041c\u0438\u0442\u0440\u043e\u0444\u0430\u043d\u043e\u0432 \u0410.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 39,
+    "fields": {
+      "full_name": "\u0413\u043b\u0438\u043d\u043a\u0438\u043d \u0410.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 40,
+    "fields": {
+      "full_name": "\u041a\u043d\u044f\u0437\u0435\u0432\u0430 \u0422.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 41,
+    "fields": {
+      "full_name": "\u041c\u0443\u0441\u0442\u0430\u0444\u0430\u0435\u0432 \u042e.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 42,
+    "fields": {
+      "full_name": "\u0420\u0443\u043f\u0430\u0441\u043e\u0432\u0430 \u041d.\u0415.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 43,
+    "fields": {
+      "full_name": "\u0421\u0435\u043b\u0438\u043d\u0430 \u0415.\u0413.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 44,
+    "fields": {
+      "full_name": "\u042f\u043a\u0438\u043c\u043e\u0432 \u0421.\u041c.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 45,
+    "fields": {
+      "full_name": "\u0418\u0432\u0430\u043d\u043e\u0432\u0430 \u041e.\u042e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 46,
+    "fields": {
+      "full_name": "\u0415\u0441\u044c\u043a\u043e\u0432\u0430 \u0415.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 47,
+    "fields": {
+      "full_name": "\u0414\u0435\u043c\u0438\u0434\u043e\u0432 \u0421.\u041c.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 48,
+    "fields": {
+      "full_name": "\u0418\u0432\u0430\u043d\u043e\u0432\u0430 \u041d.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 49,
+    "fields": {
+      "full_name": "\u041f\u0430\u043d\u043a\u0440\u0430\u0442\u043e\u0432\u0430 \u0421.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 50,
+    "fields": {
+      "full_name": "\u0412\u0430\u0441\u0438\u043b\u044c\u0435\u0432\u0430 \u041b.\u0418.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 51,
+    "fields": {
+      "full_name": "\u041a\u0430\u0440\u0430\u0432\u0430\u0435\u0432\u0430 \u0410.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 52,
+    "fields": {
+      "full_name": "\u0429\u0435\u0440\u0431\u0430\u043a\u043e\u0432\u0430 \u041b.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 53,
+    "fields": {
+      "full_name": "\u0411\u043e\u0440\u043e\u0434\u0438\u043d\u0430 \u0415.\u0413.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 54,
+    "fields": {
+      "full_name": "\u041a\u0443\u0437\u043d\u0435\u0446\u043e\u0432\u0430 \u0418.\u0422.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 55,
+    "fields": {
+      "full_name": "\u0429\u0435\u0433\u043b\u043e\u0432\u0430 \u0410.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 56,
+    "fields": {
+      "full_name": "\u041c\u0443\u0441\u0442\u0435\u0439\u043a\u0438\u0441 \u0410.\u0418.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 57,
+    "fields": {
+      "full_name": "\u0411\u0430\u0443\u043b\u0438\u043d \u0414.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 58,
+    "fields": {
+      "full_name": "\u041a\u0438\u0440\u0438\u043b\u043b\u043e\u0432 \u0410.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 59,
+    "fields": {
+      "full_name": "\u0414\u043e\u043a\u0443\u0447\u0430\u0435\u0432\u0430 \u0410.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 60,
+    "fields": {
+      "full_name": "\u0426\u0435\u043d\u0451\u0432\u0430 \u0421.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 61,
+    "fields": {
+      "full_name": "\u0421\u0430\u043d\u043d\u0438\u043a\u043e\u0432 \u0412.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 62,
+    "fields": {
+      "full_name": "\u0425\u0430\u043b\u0435\u0437\u043e\u0432\u0430 \u0410.\u0418.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 63,
+    "fields": {
+      "full_name": "\u0422\u0443\u0440\u043a\u0438\u043d\u0430 \u041d.\u0420.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 64,
+    "fields": {
+      "full_name": "\u0428\u0438\u043d\u0434\u0438\u043d\u0430 \u042e.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 65,
+    "fields": {
+      "full_name": "\u041b\u0430\u0437\u0430\u0440\u0435\u0432\u0430 \u042e.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 66,
+    "fields": {
+      "full_name": "\u0411\u0430\u0440\u0431\u0430\u0440\u043e\u0432\u0438\u0447 \u041c.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 67,
+    "fields": {
+      "full_name": "\u041b\u0435\u043d\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0412.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 68,
+    "fields": {
+      "full_name": "\u0422\u0438\u0445\u043e\u043d\u043e\u0432-\u0411\u0443\u0433\u0440\u043e\u0432 \u0414.\u0415.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 69,
+    "fields": {
+      "full_name": "\u0420\u0430\u043a\u0438\u0442\u0441\u043a\u0430\u044f \u041c.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 70,
+    "fields": {
+      "full_name": "\u0413\u0435\u043b\u044c\u0434\u0438\u0431\u0430\u0435\u0432 \u041c.\u0425.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 71,
+    "fields": {
+      "full_name": "\u041b\u0430\u043f\u0442\u0435\u0432\u0430 \u0410.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 72,
+    "fields": {
+      "full_name": "\u0420\u0430\u043a\u043e\u0432\u0430 \u0418.\u041a.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 73,
+    "fields": {
+      "full_name": "\u0415\u0433\u043e\u0440\u0435\u043d\u043a\u043e\u0432\u0430 \u041e.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 74,
+    "fields": {
+      "full_name": "\u0413\u0430\u0440\u044b\u043d\u0438\u043d\u0430 \u0421.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 75,
+    "fields": {
+      "full_name": "\u041c\u043e\u043b\u0447\u0430\u043d\u043e\u0432\u0430 \u0421.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 76,
+    "fields": {
+      "full_name": "\u041b\u0435\u0431\u0435\u0434\u0435\u0432 \u0412.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 77,
+    "fields": {
+      "full_name": "\u0424\u0430\u0442\u0438\u043d\u0430 \u0410.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 78,
+    "fields": {
+      "full_name": "\u041a\u043e\u043c\u0430\u0440\u043e\u0432\u0430 \u041e.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 79,
+    "fields": {
+      "full_name": "\u0421\u0430\u0434\u044b\u0440\u043e\u0432\u0430 \u0410.\u041a.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 80,
+    "fields": {
+      "full_name": "\u0412\u043e\u043b\u0447\u0435\u043d\u043a\u043e\u0432\u0430 \u041d.\u041c.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 81,
+    "fields": {
+      "full_name": "\u0413\u043b\u0430\u0434\u0435\u0432\u0438\u0447 \u0410.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 82,
+    "fields": {
+      "full_name": "\u041d\u0435\u0432\u0437\u043e\u0440\u043e\u0432\u0430 \u041d.\u0424.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 83,
+    "fields": {
+      "full_name": "\u0410\u0440\u0435\u0448\u043a\u0438\u043d \u0410.\u0413.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 84,
+    "fields": {
+      "full_name": "\u0416\u0438\u0432\u0443\u043b\u0438\u043d \u0412.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 85,
+    "fields": {
+      "full_name": "\u0411\u0435\u043b\u043e\u0432\u0430 \u0414.\u0414.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 86,
+    "fields": {
+      "full_name": "\u041b\u043e\u043c\u043e\u0432\u0446\u0435\u0432\u0430 \u0421.\u0414.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 87,
+    "fields": {
+      "full_name": "\u041a\u043b\u044e\u0435\u0432 \u0410.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 88,
+    "fields": {
+      "full_name": "\u041f\u0440\u0435\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0441\u043a\u0430\u044f \u041c.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 89,
+    "fields": {
+      "full_name": "\u041a\u0430\u0431\u0430\u043b\u0438\u043d\u0430 \u0415.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 90,
+    "fields": {
+      "full_name": "\u0411\u0440\u0430\u0446\u043b\u0430\u0432\u0441\u043a\u0438\u0439 \u0410.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 91,
+    "fields": {
+      "full_name": "\u041c\u0430\u0436\u0430\u0439\u0446\u0435\u0432 \u0415.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 92,
+    "fields": {
+      "full_name": "\u0413\u043b\u0430\u0437\u0443\u043d\u043e\u0432 \u041a.\u041e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 93,
+    "fields": {
+      "full_name": "\u0411\u043e\u0433\u0434\u0430\u043d\u043e\u0432 \u0412.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 94,
+    "fields": {
+      "full_name": "\u0428\u043a\u0432\u0430\u0440\u0446\u043e\u0432 (\u041c6) \u0412.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 95,
+    "fields": {
+      "full_name": "\u0428\u0430\u043f\u043e\u0432\u0430\u043b\u043e\u0432 \u0415.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 96,
+    "fields": {
+      "full_name": "\u041f\u0430\u043d\u044c\u0448\u0438\u043d\u0430 \u0410.\u0418.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 97,
+    "fields": {
+      "full_name": "\u041c\u0430\u043c\u0430\u0435\u0432\u0430 \u041a.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 98,
+    "fields": {
+      "full_name": "\u041b\u044f\u0445\u043e\u0432\u0438\u0447 \u0414.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 99,
+    "fields": {
+      "full_name": "\u0413\u0435\u0440\u0442 \u0410.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 100,
+    "fields": {
+      "full_name": "\u041a\u0438\u0441\u0435\u043b\u0435\u0432 \u0410.\u041f.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 101,
+    "fields": {
+      "full_name": "\u041c\u0430\u0441\u043b\u043e\u0431\u043e\u0435\u0432 \u0414.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 102,
+    "fields": {
+      "full_name": "\u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432\u0430 \u0410.\u041f.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 103,
+    "fields": {
+      "full_name": "\u041b\u0430\u0437\u0430\u0440\u0435\u0432\u0430 \u0422.\u0418.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 104,
+    "fields": {
+      "full_name": "\u041c\u0430\u0442\u0432\u0435\u0435\u0432\u0430 \u0415.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 105,
+    "fields": {
+      "full_name": "\u0410\u0431\u0440\u043e\u0441\u0438\u043c\u043e\u0432 \u0421.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 106,
+    "fields": {
+      "full_name": "\u0421\u043e\u043b\u043e\u0434\u0443\u0445\u0438\u043d \u0415.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 107,
+    "fields": {
+      "full_name": "\u0421\u044b\u0440\u0446\u0435\u0432 \u0410.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 108,
+    "fields": {
+      "full_name": "\u0410\u0440\u0438\u043f\u043e\u0432\u0430 \u041e.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 109,
+    "fields": {
+      "full_name": "\u041d\u0435\u0441\u0442\u0435\u0440\u043e\u0432 \u0421.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 110,
+    "fields": {
+      "full_name": "\u0411\u0443\u0440\u0443\u043d\u043e\u0432\u0430 \u0412.\u042e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 111,
+    "fields": {
+      "full_name": "\u041a\u043e\u043b\u044b\u0447\u0435\u0432 \u0410.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 112,
+    "fields": {
+      "full_name": "\u0413\u0430\u043b\u0438\u043d\u0441\u043a\u0430\u044f \u041e.\u041e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 113,
+    "fields": {
+      "full_name": "\u0416\u0435\u0440\u0435\u0431\u0438\u043d \u0410.\u0418.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 114,
+    "fields": {
+      "full_name": "\u041b\u0435\u043c\u0435\u0448\u043e\u043d\u043e\u043a \u0422.\u042e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 115,
+    "fields": {
+      "full_name": "\u0410\u0444\u0430\u043d\u0430\u0441\u044c\u0435\u0432 \u041a.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 116,
+    "fields": {
+      "full_name": "\u0411\u043e\u0440\u043e\u0434\u0430\u0432\u043a\u0438\u043d \u0412.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 117,
+    "fields": {
+      "full_name": "\u0411\u0443\u0440\u043a\u043e\u0432\u0435\u0446\u043a\u0438\u0439 \u041a.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 118,
+    "fields": {
+      "full_name": "\u0415\u0432\u0441\u0442\u0430\u0444\u044c\u0435\u0432 \u0412.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 119,
+    "fields": {
+      "full_name": "\u0413\u0430\u0433\u0430\u0440\u0441\u043a\u0438\u0439 \u0421.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 120,
+    "fields": {
+      "full_name": "\u041a\u0440\u0430\u0441\u0438\u043b\u044c\u043d\u0438\u043a\u043e\u0432 \u0420.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 121,
+    "fields": {
+      "full_name": "\u0411\u043e\u043a\u0443\u0447\u0430\u0432\u0430 \u041f.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 122,
+    "fields": {
+      "full_name": "\u0421\u043e\u043b\u0434\u0430\u0442\u043a\u0438\u043d \u0410.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 123,
+    "fields": {
+      "full_name": "\u0418\u0433\u043e\u043b\u043a\u0438\u043d \u0421.\u0418.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 124,
+    "fields": {
+      "full_name": "\u0414\u0443\u043d\u0430\u0435\u0432\u0441\u043a\u0430\u044f \u041c.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 125,
+    "fields": {
+      "full_name": "\u041e\u0440\u043b\u043e\u0432\u0430 \u0414.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 126,
+    "fields": {
+      "full_name": "\u0410\u043b\u0451\u0448\u043a\u0438\u043d \u041d.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 127,
+    "fields": {
+      "full_name": "\u0414\u0440\u043e\u0437\u0434 \u0410.\u041b.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 128,
+    "fields": {
+      "full_name": "\u041f\u043e\u043d\u043e\u043c\u0430\u0440\u0435\u0432  \u0421.\u042e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 129,
+    "fields": {
+      "full_name": "\u0413\u0440\u0438\u0448\u0430\u043d\u0438\u043d\u0430 \u0422.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 130,
+    "fields": {
+      "full_name": "\u0421\u0432\u0435\u043d\u0442\u0438\u0446\u043a\u0430\u044f \u0412.\u0415.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 131,
+    "fields": {
+      "full_name": "\u0425\u043e\u0434\u043e\u0441\u043e\u0432 \u0412.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 132,
+    "fields": {
+      "full_name": "\u0417\u0435\u043b\u0438\u043a\u043e\u0432 \u0410.\u0414.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 133,
+    "fields": {
+      "full_name": "\u041f\u043e\u043f\u043e\u0432 \u0412.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 134,
+    "fields": {
+      "full_name": "\u041a\u0443\u0437\u044c\u043c\u0438\u043d \u0410.\u041e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 135,
+    "fields": {
+      "full_name": "\u0411\u0430\u0431\u0443\u043a \u0412.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 136,
+    "fields": {
+      "full_name": "\u041f\u0435\u0442\u0440\u043e\u0432\u0430 \u0418.\u041b.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 137,
+    "fields": {
+      "full_name": "\u041b\u044b\u0441\u0435\u043d\u043a\u043e \u0415.\u041c.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 138,
+    "fields": {
+      "full_name": "\u041d\u0438\u0437\u044f\u0435\u0432 \u0410.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 139,
+    "fields": {
+      "full_name": "\u0411\u0443\u0434\u043d\u044b\u0439 \u041d.\u041b.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 140,
+    "fields": {
+      "full_name": "\u041c\u0430\u0442\u0432\u0435\u0435\u0432 \u041d.\u041a.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 141,
+    "fields": {
+      "full_name": "\u041a\u043e\u043d\u0434\u0440\u0430\u0442\u044c\u0435\u0432 \u0421\u0435\u0440\u0433\u0435\u0439 \u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 142,
+    "fields": {
+      "full_name": "\u041f\u0435\u0432\u0438\u0448\u0435\u0432 \u0421.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 143,
+    "fields": {
+      "full_name": "\u041a\u043e\u0442\u043e\u0432\u0430 \u041b.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 144,
+    "fields": {
+      "full_name": "\u041c\u0430\u043b\u0430\u043c\u0430\u043d\u043e\u0432 \u0421.\u042e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 145,
+    "fields": {
+      "full_name": "\u041a\u0443\u0437\u044c\u043c\u0438\u043d \u0410.\u041c.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 146,
+    "fields": {
+      "full_name": "\u0412\u044b\u0434\u0440\u0438\u043d \u0410.\u0415.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 147,
+    "fields": {
+      "full_name": "\u041a\u0440\u0430\u0441\u0438\u043b\u044c\u043d\u0438\u043a\u043e\u0432 \u0410.\u0417.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 148,
+    "fields": {
+      "full_name": "\u041b\u043e\u0433\u0443\u043d\u043e\u0432\u0430 \u0422.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 149,
+    "fields": {
+      "full_name": "\u0413\u043e\u0440\u0435\u043b\u043e\u0432 \u0410.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 150,
+    "fields": {
+      "full_name": "\u041b\u043e\u043a\u0430\u0447\u0435\u0432\u0430 \u042e.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 151,
+    "fields": {
+      "full_name": "\u041a\u0430\u043d\u0430\u0442\u0430\u0435\u0432 \u0414.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 152,
+    "fields": {
+      "full_name": "\u0411\u043e\u0440\u0435\u0439\u0448\u043e \u0410.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 153,
+    "fields": {
+      "full_name": "\u0412\u0430\u0441\u0438\u043b\u044c\u0435\u0432\u0430 \u0412.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 154,
+    "fields": {
+      "full_name": "\u0411\u043e\u043b\u044c\u0448\u0430\u043a\u043e\u0432\u0430 \u0413.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 155,
+    "fields": {
+      "full_name": "\u0421\u043c\u0430\u0433\u0438\u043d  \u041e.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 156,
+    "fields": {
+      "full_name": "\u041a\u0435\u0434\u0440\u043e\u0432\u0430 \u0415.\u0418.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 157,
+    "fields": {
+      "full_name": "\u0413\u0443\u0431\u0430\u0440\u0435\u0432 \u0410.\u0414.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 158,
+    "fields": {
+      "full_name": "\u041c\u0430\u0440\u0434\u0430\u043d\u043e\u0432 \u0410.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 159,
+    "fields": {
+      "full_name": "\u0413\u0440\u0438\u0433\u043e\u0440\u044c\u0435\u0432 \u041c.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 160,
+    "fields": {
+      "full_name": "\u0411\u0443\u043b\u0434\u0430\u043a\u043e\u0432\u0430 \u0415.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 161,
+    "fields": {
+      "full_name": "\u0412\u0435\u043d\u0435\u0434\u0438\u043a\u0442\u043e\u0432\u0430 \u0421.\u041a.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 162,
+    "fields": {
+      "full_name": "\u041d\u0438\u043a\u0438\u0442\u0438\u043d \u0410.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 163,
+    "fields": {
+      "full_name": "\u0418\u0432\u043a\u0438\u043d \u0421.\u041f.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 164,
+    "fields": {
+      "full_name": "\u0422\u0440\u0443\u0431\u0438\u043d\u0430 \u041c.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 165,
+    "fields": {
+      "full_name": "\u0411\u0430\u0440\u0443\u043d\u0438\u043d \u0410.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 166,
+    "fields": {
+      "full_name": "\u0423\u043c\u0430\u043d\u0435\u0446 \u0421.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 167,
+    "fields": {
+      "full_name": "\u0421\u0430\u0432\u0438\u043d\u043e\u0432 \u041c.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 168,
+    "fields": {
+      "full_name": "\u0417\u0435\u043c\u043b\u044f\u043d\u0441\u043a\u0430\u044f \u0415.\u0420.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 169,
+    "fields": {
+      "full_name": "\u0422\u0430\u0440\u0430\u0441\u043e\u0432\u0430 \u041d.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 170,
+    "fields": {
+      "full_name": "\u0411\u0443\u0442\u043a\u0430\u0440\u0435\u0432 \u0410.\u0413.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 171,
+    "fields": {
+      "full_name": "\u041a\u0438\u0441\u0435\u043b\u0435\u0432 \u042e.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 172,
+    "fields": {
+      "full_name": "\u0416\u0430\u0440\u043e\u0432\u0430 \u0421.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 173,
+    "fields": {
+      "full_name": "\u0411\u043e\u0440\u0446\u043e\u0432\u0430 \u0421.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 174,
+    "fields": {
+      "full_name": "\u041d\u0430\u0441\u0441 \u041e.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 175,
+    "fields": {
+      "full_name": "\u041c\u043e\u0437\u0433\u043e\u0432\u0430\u044f \u0412.\u0413.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 176,
+    "fields": {
+      "full_name": "\u0417\u0430\u0431\u0430\u043b\u043a\u0430\u043d\u0441\u043a\u0430\u044f \u041b.\u042d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 177,
+    "fields": {
+      "full_name": "\u041f\u0430\u0442\u0440\u0443\u0448\u0435\u0432\u0430 \u0422.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 178,
+    "fields": {
+      "full_name": "\u0421\u043a\u043b\u0430\u0434\u043d\u043e\u0432\u0430 \u0415.\u0415.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 179,
+    "fields": {
+      "full_name": "\u041e\u0440\u043e\u043f\u0430\u0435\u0432\u0430 \u0410.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 180,
+    "fields": {
+      "full_name": "\u041c\u0430\u043a\u0430\u0440\u0435\u043d\u043a\u043e \u0410.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 181,
+    "fields": {
+      "full_name": "\u041a\u043b\u0438\u043c\u043a\u0438\u043d \u0412.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 182,
+    "fields": {
+      "full_name": "\u041a\u0430\u043b\u044f\u0433\u0438\u043d \u041b.\u0418.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 183,
+    "fields": {
+      "full_name": "\u041d\u0438\u043b\u043e\u0432 \u0410.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 184,
+    "fields": {
+      "full_name": "\u0415\u0440\u043c\u043e\u043b\u0430\u0435\u0432 \u0412.\u0418.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 185,
+    "fields": {
+      "full_name": "\u0410\u0442\u0430\u043c\u0430\u0441\u043e\u0432 \u0412.\u0414.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 186,
+    "fields": {
+      "full_name": "\u041a\u0443\u043a\u043b\u0438\u043d \u0414.\u0418.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 187,
+    "fields": {
+      "full_name": "\u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0430 \u0410.\u041c.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 188,
+    "fields": {
+      "full_name": "\u0410\u043d\u0434\u0440\u0435\u0435\u0432 \u041e.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 189,
+    "fields": {
+      "full_name": "\u041a\u0440\u0430\u0441\u043d\u043e\u0432 \u0412.\u0418.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 190,
+    "fields": {
+      "full_name": "\u0421\u0438\u043d\u0438\u043b\u044c\u0449\u0438\u043a\u043e\u0432 \u0412.\u0411.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 191,
+    "fields": {
+      "full_name": "\u0410\u043d\u0434\u0440\u044e\u0448\u043a\u0438\u043d \u0410.\u042e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 192,
+    "fields": {
+      "full_name": "\u0425\u0440\u0430\u043c\u043e\u0432 \u0411.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 193,
+    "fields": {
+      "full_name": "\u0420\u0430\u0441\u0443\u043b\u043e\u0432 \u0417.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 194,
+    "fields": {
+      "full_name": "\u0414\u0443\u0434\u0438\u043d \u0421.\u041c.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 195,
+    "fields": {
+      "full_name": "\u0417\u0430\u0437\u0438\u043c\u043a\u043e \u0412.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 196,
+    "fields": {
+      "full_name": "\u0425\u0440\u0430\u043c\u043e\u0432 \u0410.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 197,
+    "fields": {
+      "full_name": "\u0411\u0438\u043b\u044c\u0434\u044e\u043a \u041d.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 198,
+    "fields": {
+      "full_name": "\u041a\u0435\u0440\u0435\u0441\u0442\u0435\u043d\u044c \u0418.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 199,
+    "fields": {
+      "full_name": "\u0421\u0430\u0432\u0447\u0435\u043d\u043a\u043e \u0413.\u0411.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 200,
+    "fields": {
+      "full_name": "\u041a\u0440\u0430\u043c\u0430\u0440\u043e\u0432\u0430 \u0421.\u0413.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 201,
+    "fields": {
+      "full_name": "\u0421\u0435\u043c\u0435\u043d\u043e\u0432\u0430 \u0410.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 202,
+    "fields": {
+      "full_name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u0430 \u0415.\u0411.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 203,
+    "fields": {
+      "full_name": "\u0428\u0435\u0440\u0438\u043d \u041f.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 204,
+    "fields": {
+      "full_name": "\u041c\u0430\u0448\u0442\u0430\u043a\u043e\u0432 \u0410.\u041f.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 205,
+    "fields": {
+      "full_name": "\u041a\u0443\u0440\u0438\u043b\u043e\u0432\u0430 \u0415.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 206,
+    "fields": {
+      "full_name": "\u041a\u043b\u043e\u0447\u043a\u043e\u0432 \u0410.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 207,
+    "fields": {
+      "full_name": "\u0415\u0440\u0448\u043e\u0432 \u0421.\u041e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 208,
+    "fields": {
+      "full_name": "\u0425\u0440\u0430\u043f\u043a\u043e \u041d.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 209,
+    "fields": {
+      "full_name": "\u0414\u043e\u043d\u0447\u0435\u043d\u043a\u043e \u041a.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 210,
+    "fields": {
+      "full_name": "\u041a\u043e\u043b\u0430\u0447\u0435\u0432 \u0418.\u041e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 211,
+    "fields": {
+      "full_name": "\u0413\u0443\u0440\u044c\u0435\u0432 \u0410.\u0418.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 212,
+    "fields": {
+      "full_name": "\u0413\u043e\u0440\u043e\u0445\u043e\u0432\u0430 \u041f.\u0414.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 213,
+    "fields": {
+      "full_name": "\u042f\u0440\u044b\u0433\u0438\u043d \u0414.\u041c.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 214,
+    "fields": {
+      "full_name": "\u041c\u0430\u043c\u0430\u0435\u0432 \u0418.\u0414.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 215,
+    "fields": {
+      "full_name": "\u0413\u0440\u0438\u0448\u0438\u043d\u0430 \u041e.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 216,
+    "fields": {
+      "full_name": "\u0412\u0435\u0440\u0435\u0441\u043e\u0432\u0430 \u0410.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 217,
+    "fields": {
+      "full_name": "\u041f\u0435\u0442\u0440\u043e\u0432\u0430 \u0418.\u041e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 218,
+    "fields": {
+      "full_name": "\u0420\u043e\u043c\u0430\u043d\u043e\u0432 \u0421.\u041b.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 219,
+    "fields": {
+      "full_name": "\u041b\u0435\u043d\u0438\u043d\u0430 \u0412.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 220,
+    "fields": {
+      "full_name": "\u041f\u0440\u044f\u0434\u043a\u0438\u043d \u0410.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 221,
+    "fields": {
+      "full_name": "\u041a\u0430\u0440\u0430\u0441\u0435\u0432 \u0410.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 222,
+    "fields": {
+      "full_name": "\u041a\u043e\u0441\u0442\u0438\u043d \u0418.\u0414.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 223,
+    "fields": {
+      "full_name": "\u0422\u043e\u043b\u043f\u0435\u0433\u0438\u043d \u041e.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 224,
+    "fields": {
+      "full_name": "\u041c\u0430\u0445\u043e\u043d\u0438\u043d \u0418.\u041e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 225,
+    "fields": {
+      "full_name": "\u0422\u0435\u043b\u044f\u043a\u043e\u0432 \u0420.\u0424.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 226,
+    "fields": {
+      "full_name": "\u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u0430 \u041a.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 227,
+    "fields": {
+      "full_name": "\u0420\u044e\u0442\u0438\u043d \u0411.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 228,
+    "fields": {
+      "full_name": "\u0420\u0443\u0434\u044f\u043a \u041c.\u0415.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 229,
+    "fields": {
+      "full_name": "\u041f\u0438\u043d\u0447\u0443\u043a \u0412.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 230,
+    "fields": {
+      "full_name": "\u0413\u0430\u0448\u0435\u0432\u0441\u043a\u0438\u0439 \u0415.\u041c.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 231,
+    "fields": {
+      "full_name": "\u041b\u0435\u0432\u0438\u0445\u0438\u043d \u0410.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 232,
+    "fields": {
+      "full_name": "\u0411\u043e\u0440\u044f\u0435\u0432 \u0410.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 233,
+    "fields": {
+      "full_name": "\u041a\u0443\u0437\u044c\u043c\u0438\u043d\u0430 \u042e.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 234,
+    "fields": {
+      "full_name": "\u042e\u043d\u0430\u043a\u043e\u0432 \u041b.\u041f.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 235,
+    "fields": {
+      "full_name": "\u041f\u043e\u0440\u0442\u043d\u043e\u0432 \u0421.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 236,
+    "fields": {
+      "full_name": "\u041c\u0430\u043b\u044c\u043a\u043e\u0432 \u0412.\u041c.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 237,
+    "fields": {
+      "full_name": "\u0410\u0444\u0430\u043d\u0430\u0441\u044c\u0435\u0432 \u0410.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 238,
+    "fields": {
+      "full_name": "\u0412\u0435\u0440\u0435\u0432\u043a\u0438\u043d \u0410.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 239,
+    "fields": {
+      "full_name": "\u041d\u0438\u043a\u0438\u0442\u0435\u043d\u043a\u043e \u0410.\u0411.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 240,
+    "fields": {
+      "full_name": "\u041a\u043e\u043d\u043e\u043d\u043e\u0432 \u041a.\u0418.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 241,
+    "fields": {
+      "full_name": "\u041a\u0443\u0437\u044c\u043c\u0438\u043d \u0413.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 242,
+    "fields": {
+      "full_name": "\u041c\u0430\u0440\u0442\u044b\u043d\u043e\u0432\u0430 \u0422.\u0415.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 243,
+    "fields": {
+      "full_name": "\u0421\u0442\u0440\u0435\u043b\u044c\u0446\u043e\u0432 \u0412.\u0413.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 244,
+    "fields": {
+      "full_name": "\u0428\u043e\u043d\u0438\u044f \u041a.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 245,
+    "fields": {
+      "full_name": "\u041e\u0440\u043b\u043e\u0432 \u041e.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 246,
+    "fields": {
+      "full_name": "\u041f\u0435\u0442\u0440\u043e\u0432  \u0412.\u041c.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 247,
+    "fields": {
+      "full_name": "\u0421\u0435\u0440\u043e\u0432 \u0421.\u041b.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 248,
+    "fields": {
+      "full_name": "\u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0430 \u041e.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 249,
+    "fields": {
+      "full_name": "\u0412\u0430\u043d\u0434\u0435\u0435\u0432 \u0412.\u041f.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 250,
+    "fields": {
+      "full_name": "\u041d\u0435\u0432\u0437\u043e\u0440\u043e\u0432\u0430 \u0413.\u0414.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 251,
+    "fields": {
+      "full_name": "\u0410\u043a\u0441\u0435\u043d\u043e\u0432\u0430 \u0414.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 252,
+    "fields": {
+      "full_name": "\u041a\u0430\u0440\u043e\u0432\u0435\u0446\u043a\u0438\u0439 \u0410.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 253,
+    "fields": {
+      "full_name": "\u041a\u0443\u043b\u0438\u043d\u043a\u0438\u043d \u0410.\u0411.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 254,
+    "fields": {
+      "full_name": "\u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u0430 \u0410.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 255,
+    "fields": {
+      "full_name": "\u0421\u0442\u0435\u043f\u0430\u043d\u043e\u0432\u0430 \u041e.\u042e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 256,
+    "fields": {
+      "full_name": "\u0412\u0430\u043b\u044c\u0448\u0442\u0435\u0439\u043d \u041a.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 257,
+    "fields": {
+      "full_name": "\u0421\u0442\u0435\u0448\u0438\u043d \u0410.\u0418.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 258,
+    "fields": {
+      "full_name": "\u041b\u0438\u0445\u0430\u0447\u0435\u0432 \u0410.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 259,
+    "fields": {
+      "full_name": "\u042f\u0440\u043e\u0448\u0435\u043d\u043a\u043e \u041d.\u0422.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 260,
+    "fields": {
+      "full_name": "\u041f\u043e\u0431\u0435\u043b\u044f\u043d\u0441\u043a\u0438\u0439 \u0410.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 261,
+    "fields": {
+      "full_name": "\u0420\u0443\u0441\u0438\u043d\u0430 \u0410.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 262,
+    "fields": {
+      "full_name": "\u0422\u0430\u0440\u0430\u0441\u043e\u0432 \u0412.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 263,
+    "fields": {
+      "full_name": "\u041b\u043e\u043a\u0442\u0435\u0432\u0430 \u0421.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 264,
+    "fields": {
+      "full_name": "\u0411\u0435\u043b\u044f\u0435\u0432\u0430 \u0410.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 265,
+    "fields": {
+      "full_name": "\u0424\u0435\u0434\u043e\u0441\u0435\u043d\u043a\u043e \u041d.\u0411.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 266,
+    "fields": {
+      "full_name": "\u0426\u0438\u0440\u043a\u0443\u043d\u043e\u0432 \u042e.\u041c.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 267,
+    "fields": {
+      "full_name": "\u0415\u0444\u0440\u0435\u043c\u043e\u0432 \u0410.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 268,
+    "fields": {
+      "full_name": "\u0422\u0435\u0442\u0435\u0440\u0438\u043d\u0430 \u0418.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 269,
+    "fields": {
+      "full_name": "\u0415\u043c\u0435\u043b\u044c\u044f\u043d\u043e\u0432 \u0412.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 270,
+    "fields": {
+      "full_name": "\u0428\u0430\u043b\u0438\u043c\u043e\u0432 \u0412.\u041f.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 271,
+    "fields": {
+      "full_name": "\u041b\u0430\u043f\u0442\u0438\u043d\u0441\u043a\u0430\u044f \u041c.\u041c.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 272,
+    "fields": {
+      "full_name": "\u041e\u0432\u0447\u0438\u043d\u043d\u0438\u043a\u043e\u0432\u0430 \u041e.\u041a.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 273,
+    "fields": {
+      "full_name": "\u0413\u0435\u0440\u043b\u0438\u043c\u0430\u043d \u0415.\u041c.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 274,
+    "fields": {
+      "full_name": "\u0427\u0435\u0440\u043d\u044b\u0448\u043e\u0432 \u041c.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 275,
+    "fields": {
+      "full_name": "\u0422\u0430\u0440\u0430\u0441\u043e\u0432 \u0410.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 276,
+    "fields": {
+      "full_name": "\u0420\u043e\u0434\u0438\u043e\u043d\u043e\u0432\u0430 \u0415.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 277,
+    "fields": {
+      "full_name": "\u0424\u0438\u043b\u0430\u0442\u043e\u0432 \u0410.\u0420.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 278,
+    "fields": {
+      "full_name": "\u0412\u043e\u0440\u043e\u0431\u044c\u0435\u0432\u0430 \u0413.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 279,
+    "fields": {
+      "full_name": "\u0425\u043e\u043c\u0435\u043b\u0435\u0432 \u0413.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 280,
+    "fields": {
+      "full_name": "\u041e\u043b\u0435\u0439\u043d\u0438\u043a\u043e\u0432 \u0410.\u042e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 281,
+    "fields": {
+      "full_name": "\u041b\u0435\u0441\u0442\u0435\u043d\u043a\u043e \u041d.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 282,
+    "fields": {
+      "full_name": "\u0411\u0440\u044b\u043a\u043e\u0432 \u041d.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 283,
+    "fields": {
+      "full_name": "\u0421\u043e\u043a\u043e\u043b\u043e\u0432 \u0415.\u0418.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 284,
+    "fields": {
+      "full_name": "\u0410\u0431\u0441\u0430\u043b\u044f\u043c\u043e\u0432\u0430 \u0418.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 285,
+    "fields": {
+      "full_name": "\u042f\u043a\u043e\u0432\u0447\u0443\u043a \u041c.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 286,
+    "fields": {
+      "full_name": "\u0424\u0430\u043d\u0438\u0444\u0430\u0442\u043e\u0432 \u0410.\u041e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 287,
+    "fields": {
+      "full_name": "\u0420\u0435\u043c\u0448\u0435\u0432 \u0415.\u042e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 288,
+    "fields": {
+      "full_name": "\u0421\u0438\u0434\u043e\u0440\u0435\u043d\u043a\u043e \u0422.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 289,
+    "fields": {
+      "full_name": "\u041f\u0430\u0432\u043b\u043e\u0432 \u042e.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 290,
+    "fields": {
+      "full_name": "\u0424\u0438\u043b\u0438\u043d \u0414.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 291,
+    "fields": {
+      "full_name": "\u041f\u0435\u0442\u0440\u043e\u0432 \u0421.\u041a.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 292,
+    "fields": {
+      "full_name": "\u041f\u0438\u043c\u0435\u043d\u043e\u0432 \u0410.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 293,
+    "fields": {
+      "full_name": "\u0412\u0430\u0441\u0438\u043b\u044c\u0435\u0432 \u0412.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 294,
+    "fields": {
+      "full_name": "\u0412\u0430\u0441\u0438\u043b\u044c\u043a\u043e\u0432 \u0414.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 295,
+    "fields": {
+      "full_name": "\u0428\u0430\u0431\u0430\u0440\u043e\u0432\u0430 \u0410.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 296,
+    "fields": {
+      "full_name": "\u041c\u0430\u043b\u044c\u0446\u0435\u0432\u0430 \u0415.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 297,
+    "fields": {
+      "full_name": "\u0411\u0435\u043b\u044f\u0435\u0432 \u0410.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 298,
+    "fields": {
+      "full_name": "\u0412\u0438\u043d\u043e\u0433\u0440\u0430\u0434\u0441\u043a\u0438\u0439 \u0414.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 299,
+    "fields": {
+      "full_name": "\u0411\u0430\u0440\u0430\u043d\u043e\u0432\u0430 \u0415.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 300,
+    "fields": {
+      "full_name": "\u041a\u0430\u0431\u0430\u043d\u043e\u0432 \u0421.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 301,
+    "fields": {
+      "full_name": "\u0413\u0430\u0432\u0440\u0438\u043b\u043e\u0432 \u0412.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 302,
+    "fields": {
+      "full_name": "\u0425\u0432\u043e\u0441\u0442\u043e\u0432 \u0410.\u0411.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 303,
+    "fields": {
+      "full_name": "\u0412\u043e\u043b\u044c\u0444 \u0415.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 304,
+    "fields": {
+      "full_name": "\u0427\u0435\u0440\u043d\u0443\u0441\u044c \u041f.\u041f.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 305,
+    "fields": {
+      "full_name": "\u0424\u043e\u043c\u0438\u043d\u0430 \u0410.\u041f.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 306,
+    "fields": {
+      "full_name": "\u041c\u0430\u0440\u043d\u0435\u0432\u0441\u043a\u0430\u044f \u0418.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 307,
+    "fields": {
+      "full_name": "\u0414\u044c\u044f\u043a\u043e\u043d\u043e\u0432\u0430 \u041b.\u0418.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 308,
+    "fields": {
+      "full_name": "\u0427\u0435\u0440\u043a\u0430\u0441\u043e\u0432\u0430 \u0415.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 309,
+    "fields": {
+      "full_name": "\u0415\u0441\u0438\u043f\u043e\u0432 \u0410.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 310,
+    "fields": {
+      "full_name": "\u0417\u0430\u0431\u043e\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u0418.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 311,
+    "fields": {
+      "full_name": "\u041c\u0435\u0448\u043a\u043e\u0432 \u0421.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 312,
+    "fields": {
+      "full_name": "\u04253(\u04155) ?.?.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 313,
+    "fields": {
+      "full_name": "\u0422\u044e\u0440\u0438\u043d\u0430 \u041d.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 314,
+    "fields": {
+      "full_name": "\u041a\u0443\u0434\u0440\u044f\u0432\u0446\u0435\u0432 \u0421.\u0418.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 315,
+    "fields": {
+      "full_name": "\u0427\u0430\u043b\u044b\u0439  \u0420.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 316,
+    "fields": {
+      "full_name": "\u041b\u0435\u0431\u0435\u0434\u0435\u0432 \u041c.\u041e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 317,
+    "fields": {
+      "full_name": "\u041a\u0443\u0440\u0447\u0435\u043d\u043a\u043e \u041f.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 318,
+    "fields": {
+      "full_name": "\u041b\u043e\u0439\u043a\u043e \u0410.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 319,
+    "fields": {
+      "full_name": "\u0424\u0435\u0434\u043e\u0441\u043e\u0432 \u0410.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 320,
+    "fields": {
+      "full_name": "\u041a\u0440\u043e\u0442\u043e\u0432 \u042e.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 321,
+    "fields": {
+      "full_name": "\u0415\u0433\u043e\u0440\u043e\u0432  \u0412.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 322,
+    "fields": {
+      "full_name": "\u041b\u044e\u0431\u0438\u043c\u043e\u0432 \u0418.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 323,
+    "fields": {
+      "full_name": "\u0417\u0430\u0439\u0446\u0435\u0432 \u0410.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 324,
+    "fields": {
+      "full_name": "\u041e\u0440\u043e\u0431\u0438\u043d\u0441\u043a\u0438\u0439 \u0410.\u041c.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 325,
+    "fields": {
+      "full_name": "\u041c\u0435\u043b\u0435\u0445\u0438\u043d \u0410.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 326,
+    "fields": {
+      "full_name": "\u041b\u0435\u0431\u0435\u0434\u0435\u0432 \u0413.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 327,
+    "fields": {
+      "full_name": "\u041c\u0438\u0442\u0440\u044f\u0435\u0432\u0430 \u041e.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 328,
+    "fields": {
+      "full_name": "\u0410\u0433\u0430\u043f\u043e\u0432\u0430 \u0415.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 329,
+    "fields": {
+      "full_name": "\u0417\u0438\u043c\u0438\u043d \u0411.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 330,
+    "fields": {
+      "full_name": "\u041e\u0441\u0438\u043f\u043e\u0432 \u0412.\u0418.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 331,
+    "fields": {
+      "full_name": "\u041e\u043b\u0435\u0439\u043d\u0438\u043a\u043e\u0432\u0430 \u042e.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 332,
+    "fields": {
+      "full_name": "\u041f\u0435\u043d\u044c\u043a\u043e\u0432\u0430 \u0418.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 333,
+    "fields": {
+      "full_name": "\u0413\u0440\u0438\u0433\u043e\u0440\u044c\u0435\u0432\u0430 \u0422.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 334,
+    "fields": {
+      "full_name": "\u041d\u0435\u0441\u0442\u0435\u0440\u043e\u0432 \u0412.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 335,
+    "fields": {
+      "full_name": "\u0412\u0430\u0441\u044e\u043a\u043e\u0432 \u0412.\u041c.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 336,
+    "fields": {
+      "full_name": "\u041a\u0443\u0434\u0430\u0448\u043e\u0432 \u0412.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 337,
+    "fields": {
+      "full_name": "\u041a\u0443\u0440\u0430\u043a\u0438\u043d\u0430 \u0415.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 338,
+    "fields": {
+      "full_name": "\u041f\u0435\u0440\u0448\u0438\u043d \u0414.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 339,
+    "fields": {
+      "full_name": "\u0426\u0435\u043f\u0435\u043b\u0435\u0432 \u0412.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 340,
+    "fields": {
+      "full_name": "\u0425\u0430\u0440\u0438\u0442\u043e\u043d\u043e\u0432 \u0410.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 341,
+    "fields": {
+      "full_name": "\u0412\u0430\u043b\u043e\u0432 \u0412.\u042e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 342,
+    "fields": {
+      "full_name": "\u042f\u043a\u043e\u0432\u043b\u0435\u0432 \u0421.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 343,
+    "fields": {
+      "full_name": "\u0412\u044f\u0449\u0435\u043d\u043a\u043e \u042e.\u041b.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 344,
+    "fields": {
+      "full_name": "\u041d\u043e\u0432\u0438\u043a\u043e\u0432 \u0418.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 345,
+    "fields": {
+      "full_name": "\u0413\u0440\u0435\u0446\u043e\u0432\u0430 \u0415.\u0411.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 346,
+    "fields": {
+      "full_name": "\u041c\u0430\u0440\u0442\u044b\u043d\u043e\u0432\u0438\u0447 \u0412.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 347,
+    "fields": {
+      "full_name": "\u041f\u0435\u0440\u043e\u0432 \u041b.\u0414.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 348,
+    "fields": {
+      "full_name": "\u041b\u0438 \u0412.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 349,
+    "fields": {
+      "full_name": "\u041d\u0435\u043c\u0446\u0435\u0432 \u0411.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 350,
+    "fields": {
+      "full_name": "\u0411\u0435\u043b\u044b\u0448\u0435\u0432 \u041d.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 351,
+    "fields": {
+      "full_name": "\u041a\u0438\u0436\u043d\u044f\u0435\u0432 \u042e.\u0418.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 352,
+    "fields": {
+      "full_name": "\u041c\u0435\u043d\u044c\u0448\u043e\u0432 \u0410.\u041b.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 353,
+    "fields": {
+      "full_name": "\u0415\u043b\u044c\u0447\u0438\u043d\u0441\u043a\u0438\u0439 \u0412.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 354,
+    "fields": {
+      "full_name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432  \u0410.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 355,
+    "fields": {
+      "full_name": "\u041b\u043e\u0433\u0438\u043d\u043e\u0432\u0430 \u041d.\u041a.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 356,
+    "fields": {
+      "full_name": "\u0421\u0430\u0445\u0430\u0440\u043e\u0432 \u0412.\u042e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 357,
+    "fields": {
+      "full_name": "\u0411\u0430\u0440\u0442 \u0415.\u041b.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 358,
+    "fields": {
+      "full_name": "\u0423\u0434\u043e\u0432\u0438\u0447\u0435\u043d\u043a\u043e \u0410.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 359,
+    "fields": {
+      "full_name": "\u041c\u043e\u0440\u043e\u0437\u043e\u0432  \u041c.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 360,
+    "fields": {
+      "full_name": "\u0422\u0430\u0440\u0438\u043a\u043e\u0432 \u0418.\u042f.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 361,
+    "fields": {
+      "full_name": "\u041d\u0443\u0434\u043d\u0435\u0440 \u0418.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 362,
+    "fields": {
+      "full_name": "\u0422\u043e\u0440\u0433\u0430\u0448\u0435\u0432\u0430 \u042e.\u0413.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 363,
+    "fields": {
+      "full_name": "\u041c\u0430\u043a\u0441\u0430\u043a\u043e\u0432\u0430 \u0412.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 364,
+    "fields": {
+      "full_name": "\u041f\u0430\u0432\u043b\u043e\u0432 \u042f.\u041e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 365,
+    "fields": {
+      "full_name": "\u0413\u0435\u043d\u043a\u0438\u043d \u042e.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 366,
+    "fields": {
+      "full_name": "\u041f\u0430\u043d\u0447\u0435\u043d\u043a\u043e \u0410.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 367,
+    "fields": {
+      "full_name": "\u041c\u043e\u0441\u043a\u0432\u0438\u043d \u0421.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 368,
+    "fields": {
+      "full_name": "\u0413\u043e\u0440\u0431\u043e\u0432\u0441\u043a\u0438\u0439 \u0414.\u0418.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 369,
+    "fields": {
+      "full_name": "\u0427\u0443\u0431\u0430\u0441\u043e\u0432 \u0412.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 370,
+    "fields": {
+      "full_name": "\u0427\u0438\u0440\u043a\u043e\u0432 \u0412.\u042e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 371,
+    "fields": {
+      "full_name": "\u0411\u0443\u0442\u043a\u0430\u0440\u0435\u0432\u0430 \u041d.\u0413.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 372,
+    "fields": {
+      "full_name": "\u0414\u0438\u0434\u0435\u043d\u043a\u043e \u041b.\u0413.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 373,
+    "fields": {
+      "full_name": "\u041b\u043e\u0448\u0438\u0446\u043a\u0438\u0439 \u0410.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 374,
+    "fields": {
+      "full_name": "\u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432 \u041d.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 375,
+    "fields": {
+      "full_name": "\u0424\u0438\u0435\u0432 \u041a.\u041f.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 376,
+    "fields": {
+      "full_name": "\u0421\u0443\u0440\u0438\u043d\u0430 \u0412.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 377,
+    "fields": {
+      "full_name": "\u041b\u0435\u043e\u043d\u0442\u044c\u0435\u0432 \u0412.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 378,
+    "fields": {
+      "full_name": "\u0421\u0435\u043c\u0435\u043d\u043e\u0432 \u0412.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 379,
+    "fields": {
+      "full_name": "\u0418\u0441\u0430\u043a\u043e\u0432\u0430 \u0415.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 380,
+    "fields": {
+      "full_name": "\u041d\u0438\u043a\u0443\u043b\u0438\u043d \u0415.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 381,
+    "fields": {
+      "full_name": "\u0424\u0438\u043b\u0438\u043c\u043e\u043d \u0421.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 382,
+    "fields": {
+      "full_name": "\u041a\u044d\u0440\u0442 \u0411.\u042d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 383,
+    "fields": {
+      "full_name": "\u0417\u043d\u0430\u043c\u0435\u043d\u0441\u043a\u0438\u0439 \u0415.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 384,
+    "fields": {
+      "full_name": "\u041a\u0440\u0430\u0432\u0446\u043e\u0432 \u0412.\u041e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 385,
+    "fields": {
+      "full_name": "\u0417\u0438\u0431\u043e\u0440\u043e\u0432 \u0418.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 386,
+    "fields": {
+      "full_name": "\u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432 \u041d.\u041f.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 387,
+    "fields": {
+      "full_name": "\u041a\u0438\u0440\u0435\u0435\u0432 \u041e.\u041b.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 388,
+    "fields": {
+      "full_name": "\u0424\u0440\u043e\u043b\u043e\u0432\u0430 \u0415.\u041e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 389,
+    "fields": {
+      "full_name": "\u041c\u0430\u043a\u0430\u0440\u043e\u0432 \u0415.\u0413.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 390,
+    "fields": {
+      "full_name": "\u041e\u043b\u0435\u0445\u0432\u0435\u0440 \u0410.\u0418.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 391,
+    "fields": {
+      "full_name": "\u041b\u043e\u0431\u043e\u0432 \u0412.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 392,
+    "fields": {
+      "full_name": "\u0414\u0435\u043d\u0438\u0441\u043e\u0432\u0430 \u041c.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 393,
+    "fields": {
+      "full_name": "\u041c\u043e\u043b\u0434\u043e\u0432\u0430\u043d \u0410.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 394,
+    "fields": {
+      "full_name": "\u041a\u0440\u044b\u0436\u0435\u0432\u0438\u0447 \u0413.\u0411.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 395,
+    "fields": {
+      "full_name": "\u041f\u0443\u0448\u043a\u0438\u043d \u0410.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 396,
+    "fields": {
+      "full_name": "\u0415\u0440\u0436\u0435\u043c\u0441\u043a\u0430\u044f \u041c.\u0413.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 397,
+    "fields": {
+      "full_name": "\u0416\u0443\u043a\u043e\u0432 \u0421.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 398,
+    "fields": {
+      "full_name": "\u041a\u043e\u0441\u0442\u044e\u043a \u0415.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 399,
+    "fields": {
+      "full_name": "\u0411\u0435\u0440\u0434\u043d\u0438\u043a\u043e\u0432\u0430 \u0415.\u041e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 400,
+    "fields": {
+      "full_name": "\u041b\u044e\u0431\u0430\u0440\u0447\u0443\u043a \u0424.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 401,
+    "fields": {
+      "full_name": "\u041a\u0443\u043b\u0435\u0448\u043e\u0432\u0430 \u0410.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 402,
+    "fields": {
+      "full_name": "\u041d\u0435\u0441\u0442\u0435\u0440\u043e\u0432 \u041d.\u0418.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 403,
+    "fields": {
+      "full_name": "\u0413\u0440\u0430\u0434\u043e\u0432\u0446\u0435\u0432\u0430 \u0415.\u041a.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 404,
+    "fields": {
+      "full_name": "\u041c\u0430\u0442\u0432\u0435\u0435\u0432 \u041f.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 405,
+    "fields": {
+      "full_name": "\u041a\u0438\u0440\u043f\u0438\u0447\u043d\u0438\u043a\u043e\u0432 \u0412.\u042e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 406,
+    "fields": {
+      "full_name": "\u0423\u043f\u043e\u0440\u043e\u0432 \u041f.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 407,
+    "fields": {
+      "full_name": "\u0421\u0442\u0430\u0436\u043a\u043e\u0432 \u0421.\u041c.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 408,
+    "fields": {
+      "full_name": "\u0418\u0432\u0430\u043d\u043e\u0432 \u041d.\u0418.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 409,
+    "fields": {
+      "full_name": "\u04252(\u04155) ?.?.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 410,
+    "fields": {
+      "full_name": "\u041d\u043e\u0441\u043e\u0432 \u0412.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 411,
+    "fields": {
+      "full_name": "\u0425(\u04155) ?.?.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 412,
+    "fields": {
+      "full_name": "\u0422\u043e\u0441\u043a\u0438\u043d \u0410.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 413,
+    "fields": {
+      "full_name": "\u0415\u0433\u043e\u0440\u0435\u043d\u043a\u043e\u0432 \u041b.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 414,
+    "fields": {
+      "full_name": "\u0421\u043c\u0438\u0440\u043d\u043e\u0432 \u0410.\u041f.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 415,
+    "fields": {
+      "full_name": "\u041a\u0440\u044b\u043b\u043e\u0432  \u0412.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 416,
+    "fields": {
+      "full_name": "\u041c\u0438\u0442\u0447\u0438\u043d \u041d.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 417,
+    "fields": {
+      "full_name": "\u0411\u043e\u0431\u0440\u043e\u0432 \u0410.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 418,
+    "fields": {
+      "full_name": "\u0413\u0443\u0441\u0435\u0432 \u0410.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 419,
+    "fields": {
+      "full_name": "\u041c\u0438\u0442\u044e\u0448\u043e\u0432 \u0410.\u0418.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 420,
+    "fields": {
+      "full_name": "\u041e\u0441\u044c\u043a\u0438\u043d \u0418.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 421,
+    "fields": {
+      "full_name": "\u041f\u0430\u0432\u043b\u043e\u0432 \u0410.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 422,
+    "fields": {
+      "full_name": "\u0411\u0430\u043b\u0435\u043d\u043a\u043e \u041d.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 423,
+    "fields": {
+      "full_name": "\u041c\u043e\u0437\u0433\u0430\u0447\u0435\u0432\u0430 \u0415.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 424,
+    "fields": {
+      "full_name": "\u0421\u043c\u0438\u0440\u043d\u043e\u0432 \u0410.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 425,
+    "fields": {
+      "full_name": "\u041a\u0430\u0440\u043f\u043e\u0432 \u0421.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 426,
+    "fields": {
+      "full_name": "\u0411\u0435\u0440\u0435\u0436\u043d\u043e\u0432 \u0421.\u0414.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 427,
+    "fields": {
+      "full_name": "\u0422\u043a\u0430\u0447\u0435\u043d\u043a\u043e \u0412.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 428,
+    "fields": {
+      "full_name": "\u0418\u0432\u0430\u043d\u0446\u0435\u0432\u0438\u0447 \u041d.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 429,
+    "fields": {
+      "full_name": "\u0422\u0438\u043c\u0435\u0440\u0431\u0443\u043b\u0430\u0442\u043e\u0432 \u0420.\u0420.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 430,
+    "fields": {
+      "full_name": "\u0410\u0440\u0445\u0438\u043f\u043e\u0432\u0430 \u0418.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 431,
+    "fields": {
+      "full_name": "\u0422\u0440\u043e\u0444\u0438\u043c\u043e\u0432 \u0412.\u042e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 432,
+    "fields": {
+      "full_name": "\u0417\u0430\u0445\u0430\u0440\u043e\u0432 \u0410.\u042e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 433,
+    "fields": {
+      "full_name": "\u0427\u0438\u0447 \u0421.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 434,
+    "fields": {
+      "full_name": "\u0424\u0435\u0434\u043e\u0440\u043e\u0432 \u0410.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 435,
+    "fields": {
+      "full_name": "\u0418\u043b\u043b\u0430\u0440\u0438\u043e\u043d\u043e\u0432 \u0415.\u042e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 436,
+    "fields": {
+      "full_name": "\u0411\u043e\u0440\u0438\u0441\u043e\u0432 \u0421.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 437,
+    "fields": {
+      "full_name": "\u0411\u0430\u0448\u043a\u0430\u0442\u043e\u0432 \u0410.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 438,
+    "fields": {
+      "full_name": "\u0422\u0438\u0442\u0443\u0445 \u0418.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 439,
+    "fields": {
+      "full_name": "\u0411\u0440\u044b\u0442\u043a\u043e\u0432 \u0415.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 440,
+    "fields": {
+      "full_name": "\u0428\u0432\u0435\u0434 \u0414.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 441,
+    "fields": {
+      "full_name": "\u0428\u0435\u0432\u0447\u0443\u043a \u0420.\u042d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 442,
+    "fields": {
+      "full_name": "\u0428\u0435\u0445\u043e\u0432\u0430 \u041d.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 443,
+    "fields": {
+      "full_name": "\u041c\u0438\u0433\u0443\u043d\u043e\u0432\u0430 \u041e.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 444,
+    "fields": {
+      "full_name": "\u0428\u043c\u0430\u0442\u043a\u043e \u0410.\u0414.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 445,
+    "fields": {
+      "full_name": "\u0428\u0432\u0435\u0446 \u0410.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 446,
+    "fields": {
+      "full_name": "\u0427\u0443\u0433\u0440\u0435\u0435\u0432 \u0410.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 447,
+    "fields": {
+      "full_name": "\u041f\u043e\u0433\u043e\u0434\u0430 \u0410.\u041f.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 448,
+    "fields": {
+      "full_name": "\u041f\u0435\u0442\u0440\u043e\u0432\u0430 \u042e.\u042e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 449,
+    "fields": {
+      "full_name": "\u041a\u0438\u0441\u0435\u043b\u0435\u0432 \u0418.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 450,
+    "fields": {
+      "full_name": "\u0415\u0432\u0434\u043e\u043a\u0438\u043c\u043e\u0432 \u0418.\u041c.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 451,
+    "fields": {
+      "full_name": "\u041a\u043e\u043d\u044f\u0435\u0432 \u041c.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 452,
+    "fields": {
+      "full_name": "\u041c\u043e\u0440\u043e\u0437\u043e\u0432 \u0410.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 453,
+    "fields": {
+      "full_name": "\u041b\u0443\u0433\u0438\u043d\u044f \u0412.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 454,
+    "fields": {
+      "full_name": "\u041f\u043e\u043f\u043e\u0432  \u0415.\u042d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 455,
+    "fields": {
+      "full_name": "\u0425\u0430\u0445\u0430\u043b\u0438\u043d \u0418.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 456,
+    "fields": {
+      "full_name": "\u041a\u0438\u043c \u0410.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 457,
+    "fields": {
+      "full_name": "\u0411\u0435\u043b\u043a\u043e\u0432\u0430 \u0410.\u041b.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 458,
+    "fields": {
+      "full_name": "\u0427\u0435\u0440\u043d\u0443\u0441\u044c \u041f\u0435\u0442\u0440 \u041f.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 459,
+    "fields": {
+      "full_name": "\u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u0430 \u0414.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 460,
+    "fields": {
+      "full_name": "\u041c\u0430\u043b\u044c\u043a\u043e\u0432\u0430 \u041d.\u042e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 461,
+    "fields": {
+      "full_name": "\u0414\u0436\u0433\u0430\u043c\u0430\u0434\u0437\u0435 \u0413.\u0422.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 462,
+    "fields": {
+      "full_name": "\u0411\u0430\u0445\u0430\u043d\u043e\u0432 \u0418.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 463,
+    "fields": {
+      "full_name": "\u0421\u0443\u0445\u043e\u0432 \u0422.\u041c.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 464,
+    "fields": {
+      "full_name": "\u0421\u0430\u0432\u0438\u043d \u0410.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 465,
+    "fields": {
+      "full_name": "\u041a\u0443\u0434\u0440\u044f\u0432\u0446\u0435\u0432 \u0410.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 466,
+    "fields": {
+      "full_name": "\u041c\u0430\u0440\u043a\u043e\u0432 \u0410.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 467,
+    "fields": {
+      "full_name": "\u041b\u0438\u0445\u0430\u0447\u0435\u0432 \u0418.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 468,
+    "fields": {
+      "full_name": "\u042e\u043d\u0430\u043a\u043e\u0432 \u0418.\u041b.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 469,
+    "fields": {
+      "full_name": "\u041a\u0440\u044b\u0436\u043a\u043e \u0421.\u041b.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 470,
+    "fields": {
+      "full_name": "\u041a\u043e\u0447\u0438\u043d \u041b.\u0411.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 471,
+    "fields": {
+      "full_name": "\u0424\u043b\u0451\u0440\u043e\u0432 \u0410.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 472,
+    "fields": {
+      "full_name": "\u0421\u043e\u0442\u043d\u0438\u043a\u043e\u0432\u0430 \u041d.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 473,
+    "fields": {
+      "full_name": "\u0424\u043b\u0451\u0440\u043e\u0432\u0430 \u0410.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 474,
+    "fields": {
+      "full_name": "\u0427\u0435\u0440\u043a\u0430\u0441\u043e\u0432 \u041e.\u0424.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 475,
+    "fields": {
+      "full_name": "\u041f\u043e\u043d\u043e\u043c\u0430\u0440\u0435\u0432 \u0421.\u0414.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 476,
+    "fields": {
+      "full_name": "\u0428\u0435\u0432\u0447\u0438\u043a \u0410.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 477,
+    "fields": {
+      "full_name": "\u041a\u043e\u043d\u043e\u043f\u043b\u0451\u0432 \u042e.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 478,
+    "fields": {
+      "full_name": "\u041c\u0438\u0442\u0438\u043d \u0424.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 479,
+    "fields": {
+      "full_name": "\u0415\u043c\u0435\u043b\u044c\u044f\u043d\u043e\u0432 \u0412.\u042e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 480,
+    "fields": {
+      "full_name": "\u0422\u043e\u043b\u043c\u0430\u0447\u0435\u0432 \u0421.\u0413.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 481,
+    "fields": {
+      "full_name": "\u0428\u0438\u043c\u043a\u0443\u043d \u0412.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 482,
+    "fields": {
+      "full_name": "\u041c\u0430\u0440\u0438\u0435\u0432 \u0418.\u041f.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 483,
+    "fields": {
+      "full_name": "\u0421\u043c\u0438\u0440\u043d\u043e\u0432 \u041d.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 484,
+    "fields": {
+      "full_name": "\u0410\u043d\u0438\u043a\u0438\u043d \u0421.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 485,
+    "fields": {
+      "full_name": "\u0415\u0432\u0441\u0435\u0435\u0432 \u0412.\u0418.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 486,
+    "fields": {
+      "full_name": "\u041f\u0443\u0448\u043d\u044f\u043a\u043e\u0432\u0430 \u0415.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 487,
+    "fields": {
+      "full_name": "\u041a\u0440\u044b\u043b\u043e\u0432\u0430 \u041c.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 488,
+    "fields": {
+      "full_name": "\u0420\u043e\u0433\u043e\u0436\u0438\u043d \u0412.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 489,
+    "fields": {
+      "full_name": "\u041d\u0430\u0437\u0430\u0440\u043e\u0432\u0430 \u041c.\u0411.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 490,
+    "fields": {
+      "full_name": "\u0412\u043e\u043b\u043a\u043e\u0432\u0430 \u041c.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 491,
+    "fields": {
+      "full_name": "\u0412\u0435\u0440\u0445\u043e\u043b\u0430\u0442 \u0410.\u041c.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 492,
+    "fields": {
+      "full_name": "\u041a\u043e\u0440\u043e\u043b\u0435\u0432 \u0421.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 493,
+    "fields": {
+      "full_name": "\u0421\u043c\u0438\u0440\u043d\u043e\u0432 \u0410.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 494,
+    "fields": {
+      "full_name": "\u041e\u0431\u0440\u0430\u0437\u0446\u043e\u0432 \u0410.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 495,
+    "fields": {
+      "full_name": "\u0423\u0441\u0442\u0438\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u0413.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 496,
+    "fields": {
+      "full_name": "\u0418\u0432\u0430\u043d\u044b\u043a \u0410.\u041e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 497,
+    "fields": {
+      "full_name": "\u041b\u0443\u043a\u0438\u0447\u0435\u0432 \u0412.\u042e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 498,
+    "fields": {
+      "full_name": "\u0411\u0435\u0437\u0440\u0443\u043a\u043e\u0432 \u0410.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 499,
+    "fields": {
+      "full_name": "\u0421\u0442\u0443\u043a\u0430\u043b\u043e\u0432\u0430 \u0410.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 500,
+    "fields": {
+      "full_name": "\u0421\u043c\u0438\u0440\u043d\u043e\u0432 \u0412.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 501,
+    "fields": {
+      "full_name": "\u041f\u0435\u0442\u0440\u043e\u0432 \u042e.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 502,
+    "fields": {
+      "full_name": "\u0412\u0435\u0440\u0435\u0449\u0430\u0433\u0438\u043d \u0410.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 503,
+    "fields": {
+      "full_name": "\u0421\u0438\u043d\u0438\u0446\u044b\u043d \u0412.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 504,
+    "fields": {
+      "full_name": "\u0422\u0440\u0438\u043b\u0438\u0441 \u0410.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 505,
+    "fields": {
+      "full_name": "\u0421\u043e\u0440\u043e\u043a\u0438\u043d \u0410.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 506,
+    "fields": {
+      "full_name": "\u0421\u043d\u0438\u0436\u043a\u043e \u0415.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 507,
+    "fields": {
+      "full_name": "\u0413\u043e\u0442\u0438\u043d \u0421.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 508,
+    "fields": {
+      "full_name": "\u0418\u0432\u0430\u043d\u043e\u0432\u0430 \u0422.\u0414.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 509,
+    "fields": {
+      "full_name": "\u0422\u0440\u043e\u043f\u0447\u0435\u043d\u043a\u043e \u0410.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 510,
+    "fields": {
+      "full_name": "\u0415\u0434\u0438\u0433\u0430\u0440\u0435\u0432\u0430 \u042e.\u041e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 511,
+    "fields": {
+      "full_name": "\u0420\u043e\u0445\u043b\u0438\u043d \u041d.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 512,
+    "fields": {
+      "full_name": "\u0424\u0430\u0434\u0435\u0435\u0432\u0430 \u042e.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 513,
+    "fields": {
+      "full_name": "\u0410\u0440\u0441\u0435\u043d\u044c\u0435\u0432 \u0411.\u041f.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 514,
+    "fields": {
+      "full_name": "\u0421\u0443\u0441\u043b\u0438\u043d \u0410.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 515,
+    "fields": {
+      "full_name": "\u041a\u043d\u044f\u0437\u044c\u043a\u043e\u0432 \u0410.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 516,
+    "fields": {
+      "full_name": "\u041a\u0443\u043b\u0438\u043a\u043e\u0432 \u0414.\u0411.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 517,
+    "fields": {
+      "full_name": "\u0414\u043e\u0431\u0440\u043e\u0441\u0435\u043b\u044c\u0441\u043a\u0438\u0439 \u041c.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 518,
+    "fields": {
+      "full_name": "\u0421\u043a\u043e\u0431\u0435\u0435\u0432 \u042e.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 519,
+    "fields": {
+      "full_name": "\u0418\u0432\u0430\u043a\u0438\u043d \u042f.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 520,
+    "fields": {
+      "full_name": "\u0426\u0432\u0435\u0442\u043a\u043e\u0432 \u0412.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 521,
+    "fields": {
+      "full_name": "\u0416\u0443\u043a\u043e\u0432 \u042e.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 522,
+    "fields": {
+      "full_name": "\u041a\u043e\u0440\u043e\u0431\u043e\u0432\u0430 \u0418.\u041b.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 523,
+    "fields": {
+      "full_name": "\u041a\u043e\u043b\u044b\u0432\u0430\u043d\u043e\u0432 \u0410.\u042e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 524,
+    "fields": {
+      "full_name": "\u041d\u0430\u0434\u0451\u0436\u0438\u043d \u041c.\u0418.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 525,
+    "fields": {
+      "full_name": "\u041f\u0435\u0442\u0440\u0443\u043d\u0438\u043d \u0410.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 526,
+    "fields": {
+      "full_name": "\u0411\u044b\u043a\u043e\u0432\u0430 \u041e.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 527,
+    "fields": {
+      "full_name": "\u041a\u043e\u0440\u043e\u0442\u043a\u043e\u0432 \u0415.\u0411.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 528,
+    "fields": {
+      "full_name": "\u0421\u0430\u0432\u0435\u043b\u044c\u0435\u0432 \u0411.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 529,
+    "fields": {
+      "full_name": "\u0413\u0430\u0432\u0440\u0438\u043b\u043e\u0432 \u0420.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 530,
+    "fields": {
+      "full_name": "\u042f\u043a\u043e\u0432\u0435\u043d\u043a\u043e \u041d.\u0413.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 531,
+    "fields": {
+      "full_name": "\u041b\u043e\u0441\u0435\u0432 \u0421.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 532,
+    "fields": {
+      "full_name": "\u0412\u043e\u0440\u043e\u0431\u044c\u0435\u0432\u0430 \u0415.\u0415.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 533,
+    "fields": {
+      "full_name": "\u041a\u043e\u0441\u0442\u0440\u044b\u0433\u0438\u043d \u0414.\u0413.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 534,
+    "fields": {
+      "full_name": "\u041f\u0430\u043b\u0435\u0445\u043e\u0432\u0430 \u041e.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 535,
+    "fields": {
+      "full_name": "\u0422\u0435\u0440\u0435\u0448\u0435\u043d\u043a\u043e\u0432\u0430 \u041e.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 536,
+    "fields": {
+      "full_name": "\u0425\u0430\u043c\u0438\u0434\u0443\u043b\u043b\u0438\u043d  \u0412.\u041a.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 537,
+    "fields": {
+      "full_name": "\u0410\u0440\u0442\u044e\u0445\u043e\u0432\u0430 \u041c.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 538,
+    "fields": {
+      "full_name": "\u042e\u0440\u0435\u0441\u043a\u0443\u043b \u0410.\u0413.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 539,
+    "fields": {
+      "full_name": "\u041f\u043e\u043f\u043e\u0432 \u0410.\u041c.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 540,
+    "fields": {
+      "full_name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432 \u0410.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 541,
+    "fields": {
+      "full_name": "\u0424\u0435\u0434\u043e\u0440\u043e\u0432 \u0421.\u0424.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 542,
+    "fields": {
+      "full_name": "\u0414\u043e\u043a\u0443\u0447\u0430\u0435\u0432 \u0410.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 543,
+    "fields": {
+      "full_name": "\u0414\u0430\u043d\u0438\u044d\u043b\u044c \u0421.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 544,
+    "fields": {
+      "full_name": "\u041b\u0430\u0437\u0443\u043a\u0438\u043d \u041f.\u041b.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 545,
+    "fields": {
+      "full_name": "\u041f\u043e\u0434\u0441\u043e\u0431\u043b\u044f\u0435\u0432 \u0415.\u0424.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 546,
+    "fields": {
+      "full_name": "\u041d\u043e\u0432\u0438\u043a\u043e\u0432 \u0410.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 547,
+    "fields": {
+      "full_name": "\u041c\u0430\u0440\u0443\u0441\u043e\u0432 \u0414.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 548,
+    "fields": {
+      "full_name": "\u0421\u0442\u0435\u043f\u0430\u043d\u043e\u0432 \u041c.\u041c.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 549,
+    "fields": {
+      "full_name": "\u041c\u0438\u0448\u0438\u043d\u0430 \u041e.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 550,
+    "fields": {
+      "full_name": "\u0412\u043e\u0440\u043e\u0442\u044b\u043d\u0446\u0435\u0432 \u0411.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 551,
+    "fields": {
+      "full_name": "\u0426\u0430\u0440\u0435\u0433\u043e\u0440\u043e\u0434\u0446\u0435\u0432 \u0420.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 552,
+    "fields": {
+      "full_name": "\u0422\u0438\u043c\u043e\u0444\u0435\u0435\u0432\u0430  \u0421.\u041f.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 553,
+    "fields": {
+      "full_name": "\u0421\u0442\u0440\u0430\u0445\u043e\u0432 \u0421.\u042e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 554,
+    "fields": {
+      "full_name": "\u042e\u043b\u0438\u0448 \u0412.\u0418.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 555,
+    "fields": {
+      "full_name": "\u0416\u0430\u0440\u043a\u043e\u0439 \u041c.\u0424.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 556,
+    "fields": {
+      "full_name": "\u042e\u0435\u0432 \u0410.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 557,
+    "fields": {
+      "full_name": "\u041a\u0443\u043f\u0446\u043e\u0432 \u041f.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 558,
+    "fields": {
+      "full_name": "\u0415\u0432\u0442\u0438\u0445\u0438\u0435\u0432 \u0412.\u041f.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 559,
+    "fields": {
+      "full_name": "\u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432 \u0410.\u041b.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 560,
+    "fields": {
+      "full_name": "\u0421\u0430\u0432\u0438\u043d \u0421.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 561,
+    "fields": {
+      "full_name": "\u0418\u0432\u0430\u043a\u0438\u043d \u0421.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 562,
+    "fields": {
+      "full_name": "\u0421\u0435\u0440\u0433\u0435\u0435\u0432 \u0410.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 563,
+    "fields": {
+      "full_name": "\u041c\u0430\u0440\u0438\u0447\u0435\u0432 \u0410.\u0415.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 564,
+    "fields": {
+      "full_name": "\u0415\u043c\u0435\u043b\u044c\u044f\u043d\u043e\u0432 \u0412.\u041c.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 565,
+    "fields": {
+      "full_name": "\u0413\u0430\u043b\u0430\u0439\u0434\u0438\u043d \u041f.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 566,
+    "fields": {
+      "full_name": "\u0411\u0435\u043b\u043e\u0432 \u0410.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 567,
+    "fields": {
+      "full_name": "\u041c\u0430\u0433\u0434\u0438\u0435\u0432 \u0420.\u0420.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 568,
+    "fields": {
+      "full_name": "\u041c\u0430\u0442\u044e\u0448\u0438\u043d\u0430 \u0415.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 569,
+    "fields": {
+      "full_name": "\u041a\u0430\u0443\u043d \u042e.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 570,
+    "fields": {
+      "full_name": "\u0413\u0430\u0432\u0440\u0438\u043b\u0435\u043d\u043a\u043e \u0418.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 571,
+    "fields": {
+      "full_name": "\u0424\u043e\u0440\u043e\u0441\u0442\u044f\u043d\u043d\u044b\u0439 \u041d.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 572,
+    "fields": {
+      "full_name": "\u0428\u0430\u043c\u0438\u043d\u0430 \u041b.\u041a.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 573,
+    "fields": {
+      "full_name": "\u0421\u0442\u0435\u0448\u0438\u043d \u0412.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 574,
+    "fields": {
+      "full_name": "\u0429\u0451\u0433\u043e\u043b\u0435\u0432 \u0415.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 575,
+    "fields": {
+      "full_name": "\u0417\u0432\u0435\u0440\u0435\u0432\u0430 \u0415.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 576,
+    "fields": {
+      "full_name": "\u0414\u043e\u0440\u043e\u0444\u0435\u0435\u0432\u0430 \u041b.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 577,
+    "fields": {
+      "full_name": "\u041f\u0435\u0442\u0440\u043e\u0432\u0430 \u0415.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 578,
+    "fields": {
+      "full_name": "\u0421\u043b\u0435\u043f\u0430\u043a \u041a.\u0411.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 579,
+    "fields": {
+      "full_name": "\u041a\u0430\u0440\u043f\u0435\u043d\u043a\u043e \u0414.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 580,
+    "fields": {
+      "full_name": "\u0411\u043e\u043b\u043e\u0442\u043e\u0432\u0430 \u041e.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 581,
+    "fields": {
+      "full_name": "\u0421\u0435\u043b\u0438\u0432\u0435\u0440\u0441\u0442\u043e\u0432\u0430 \u041d.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 582,
+    "fields": {
+      "full_name": "\u041b\u0443\u043a\u0438\u0447\u0435\u0432 \u041f.\u041c.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 583,
+    "fields": {
+      "full_name": "\u0411\u0430\u043b\u0435\u043d\u043a\u043e \u0410.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 584,
+    "fields": {
+      "full_name": "\u0421\u0442\u0430\u043b\u044c\u043a\u0438\u043d\u0430 \u0423.\u041c.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 585,
+    "fields": {
+      "full_name": "\u0420\u0435\u0432\u0438\u0441 \u0412.\u0415.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 586,
+    "fields": {
+      "full_name": "\u0422\u0435\u0440\u0435\u043b\u0430\u0434\u0437\u0435 \u0414.\u0418.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 587,
+    "fields": {
+      "full_name": "\u0421\u043e\u043b\u043e\u0432\u044c\u0435\u0432\u0430 \u041d.\u041b.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 588,
+    "fields": {
+      "full_name": "\u041a\u043e\u0440\u043e\u0442\u043a\u043e\u0432 \u041d.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 589,
+    "fields": {
+      "full_name": "\u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u0430 \u0421.\u0418.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 590,
+    "fields": {
+      "full_name": "\u041c\u0438\u043b\u043e\u0432\u0437\u043e\u0440\u043e\u0432\u0430 \u041c.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 591,
+    "fields": {
+      "full_name": "\u0413\u043e\u0440\u0431\u0443\u0448\u0438\u043d\u0430 \u041d.\u042e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 592,
+    "fields": {
+      "full_name": "\u0418\u0432\u0430\u043d\u043e\u0432 \u041a.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 593,
+    "fields": {
+      "full_name": "\u0428\u0430\u0440\u043a\u043e\u0432\u0430 \u0421.\u041c.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 594,
+    "fields": {
+      "full_name": "\u0428\u0430\u043c\u043e\u0432\u0430 \u0414.\u041c.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 595,
+    "fields": {
+      "full_name": "\u0421\u0442\u0430\u043d\u0447\u0438\u043a\u043e\u0432\u0430 \u041a.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 596,
+    "fields": {
+      "full_name": "\u0411\u0430\u043b\u0443\u043a\u043e\u0432\u0430 \u0412.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 597,
+    "fields": {
+      "full_name": "\u0421\u0430\u0434\u0447\u0438\u043a\u043e\u0432 \u0418.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 598,
+    "fields": {
+      "full_name": "\u0428\u0435\u0432\u0447\u0435\u043d\u043a\u043e \u041d.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 599,
+    "fields": {
+      "full_name": "\u0421\u0435\u043b\u0435\u043d\u0442\u044c\u0435\u0432\u0430 \u0414.\u041e.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 600,
+    "fields": {
+      "full_name": "\u0411\u0430\u0440\u0430\u043d\u043e\u0432 \u041d.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 601,
+    "fields": {
+      "full_name": "\u041c\u0443\u0440\u0430\u0432\u044c\u0435\u0432 \u0410.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 602,
+    "fields": {
+      "full_name": "\u0427\u0435\u0440\u043d\u0435\u043d\u043a\u043e \u0412.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 603,
+    "fields": {
+      "full_name": "\u0422\u0430\u043d\u0438\u0447\u0435\u0432 \u0410.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 604,
+    "fields": {
+      "full_name": "\u0428\u043f\u0430\u043a \u041f.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 605,
+    "fields": {
+      "full_name": "\u0421\u043e\u0440\u043e\u043a\u0438\u043d\u0430 \u0415.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 606,
+    "fields": {
+      "full_name": "\u041a\u0430\u0442\u0430\u0435\u0432 \u0421.\u0415.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 607,
+    "fields": {
+      "full_name": "\u0410\u0431\u0438\u0435\u0432\u0430 \u041d.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 608,
+    "fields": {
+      "full_name": "\u0420\u0435\u0431\u0438\u043a\u043e\u0432\u0430 \u041b.\u0414.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 609,
+    "fields": {
+      "full_name": "\u041a\u0443\u0440\u043e\u0447\u043a\u0438\u043d\u0430 \u041d.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 610,
+    "fields": {
+      "full_name": "\u0411\u0430\u0442\u0438\u043d\u0430 \u0410.\u041f.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 611,
+    "fields": {
+      "full_name": "\u0411\u0430\u043b\u0430\u0431\u0430\u043d \u0410.\u0418.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 612,
+    "fields": {
+      "full_name": "\u041a\u0440\u0430\u0441\u043d\u043e\u0432\u0430 \u041d.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 613,
+    "fields": {
+      "full_name": "\u0413\u043e\u043d\u0447\u0430\u0440\u043e\u0432\u0430 \u0412.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 614,
+    "fields": {
+      "full_name": "\u041d\u0430\u0432\u0430\u0433\u0438\u043d\u0430 \u0412.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 615,
+    "fields": {
+      "full_name": "\u0422\u0432\u0435\u0440\u0434\u043e\u0445\u043b\u0435\u0431\u043e\u0432 \u0421.\u0413.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 616,
+    "fields": {
+      "full_name": "\u041b\u0443\u043a\u0438\u043d\u0430 \u041e.\u041a.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 617,
+    "fields": {
+      "full_name": "\u0418\u0433\u043e\u043b\u043a\u0438\u043d\u0430 \u0410.\u0413.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 618,
+    "fields": {
+      "full_name": "\u0422\u043e\u043b\u0441\u0442\u0438\u043a\u043e\u0432\u0430 \u0421.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 619,
+    "fields": {
+      "full_name": "\u0410\u043b\u0430\u0434\u044b\u0448\u043a\u0438\u043d\u0430 \u041b.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 620,
+    "fields": {
+      "full_name": "\u0421\u0443\u0434\u0438\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u0412.\u0413.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 621,
+    "fields": {
+      "full_name": "\u0421\u043e\u043b\u043e\u0432\u044c\u0435\u0432\u0430 \u041c.\u0411.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 622,
+    "fields": {
+      "full_name": "\u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0430 \u0412.\u0421.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 623,
+    "fields": {
+      "full_name": "\u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u0430 \u0418.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 624,
+    "fields": {
+      "full_name": "\u041f\u0430\u0442\u0440\u0430\u043a\u043e\u0432\u0430 \u041e.\u041d.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 625,
+    "fields": {
+      "full_name": "\u041f\u043e\u0443\u0441\u0442\u043e\u0432\u0430\u043d \u041c.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 626,
+    "fields": {
+      "full_name": "\u041f\u043b\u043e\u0442\u043d\u0438\u043a\u043e\u0432\u0430 \u0415.\u041c.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 627,
+    "fields": {
+      "full_name": "\u041c\u0435\u043d\u044c\u0448\u0435\u043d\u0438\u043d\u0430 \u0415.\u0410.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 628,
+    "fields": {
+      "full_name": "\u0413\u0443\u0441\u0435\u0432\u0430 \u041b.\u0413.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.professor",
+    "pk": 629,
+    "fields": {
+      "full_name": "\u0427\u0435\u0442\u043a\u0430\u0440\u0435\u0432\u0430 \u0423.\u0412.",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  }
+]

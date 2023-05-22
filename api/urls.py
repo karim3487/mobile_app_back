@@ -22,8 +22,17 @@ router.register("attachments",
 router.register("teachers",
                 api_app.teacher.TeacherViewSet,
                 basename="teacher")
+# router.register("timetable",
+#                 api_app.timetable.TimetableWeekView,
+#                 basename="timetable")
 
-urlpatterns = []
+timetables = [
+    path("<str:code>", api_app.timetable.TimetableWeekView.as_view(),
+         name="timetable-by-week")
+              ]
 
+urlpatterns = [
+    path("timetables/", include(timetables))
+]
 
 urlpatterns += router.urls
