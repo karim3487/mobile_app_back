@@ -13,9 +13,6 @@ router.register("users",
 router.register("ads",
                 api_app.ad.AdViewSet,
                 basename="ad")
-router.register("chats",
-                api_app.chat.ChatViewSet,
-                basename="chat")
 router.register("attachments",
                 api_app.attachment.AttachmentViewSet,
                 basename="attachment")

@@ -1,1 +1,3377 @@
-[{"model": "api.group", "pk": 1, "fields": {"code": "\u0410101\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 2, "fields": {"code": "\u0410102\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 3, "fields": {"code": "\u0410103\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 4, "fields": {"code": "\u0410104\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 5, "fields": {"code": "\u0410105\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 6, "fields": {"code": "\u0410111\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 7, "fields": {"code": "\u0410112\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 8, "fields": {"code": "\u0410113\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 9, "fields": {"code": "\u0410114\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 10, "fields": {"code": "\u0410115\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 11, "fields": {"code": "\u0410121\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 12, "fields": {"code": "\u0410122\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 13, "fields": {"code": "\u0410123\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 14, "fields": {"code": "\u0410124\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 15, "fields": {"code": "\u0410125\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 16, "fields": {"code": "\u0410181", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 17, "fields": {"code": "\u0410182", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 18, "fields": {"code": "\u0410184", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 19, "fields": {"code": "\u0410191", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 20, "fields": {"code": "\u0410192", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 21, "fields": {"code": "\u0410193", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 22, "fields": {"code": "\u0410194", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 23, "fields": {"code": "\u04101\u041c71", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 24, "fields": {"code": "\u04101\u041c72", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 25, "fields": {"code": "\u04101\u041c81", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 26, "fields": {"code": "\u04101\u041c82", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 27, "fields": {"code": "\u0410211\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 28, "fields": {"code": "\u0410221\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 29, "fields": {"code": "\u0410301\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 30, "fields": {"code": "\u0410302\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 31, "fields": {"code": "\u0410303\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 32, "fields": {"code": "\u0410311\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 33, "fields": {"code": "\u0410312\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 34, "fields": {"code": "\u0410313\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 35, "fields": {"code": "\u0410321\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 36, "fields": {"code": "\u0410322\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 37, "fields": {"code": "\u0410323\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 38, "fields": {"code": "\u0410324\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 39, "fields": {"code": "\u0410381", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 40, "fields": {"code": "\u0410391", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 41, "fields": {"code": "\u0410392", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 42, "fields": {"code": "\u0410393", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 43, "fields": {"code": "\u04103\u041c71", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 44, "fields": {"code": "\u04103\u041c72", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 45, "fields": {"code": "\u04103\u041c73", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 46, "fields": {"code": "\u04103\u041c81", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 47, "fields": {"code": "\u04103\u041c82", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 48, "fields": {"code": "\u04103\u041c83", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 49, "fields": {"code": "\u0410401\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 50, "fields": {"code": "\u0410402\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 51, "fields": {"code": "\u0410411\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 52, "fields": {"code": "\u0410412\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 53, "fields": {"code": "\u0410421\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 54, "fields": {"code": "\u0410422\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 55, "fields": {"code": "\u0410481", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 56, "fields": {"code": "\u0410491", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 57, "fields": {"code": "\u0410492", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 58, "fields": {"code": "\u04104\u041c71", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 59, "fields": {"code": "\u04104\u041c81", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 60, "fields": {"code": "\u0410501\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 61, "fields": {"code": "\u0410502\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 62, "fields": {"code": "\u0410511\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 63, "fields": {"code": "\u0410512\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 64, "fields": {"code": "\u0410521\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 65, "fields": {"code": "\u0410581", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 66, "fields": {"code": "\u0410591", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 67, "fields": {"code": "\u0410592", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 68, "fields": {"code": "\u04105\u041c71", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 69, "fields": {"code": "\u04105\u041c81", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 70, "fields": {"code": "\u0410801\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 71, "fields": {"code": "\u0410802\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 72, "fields": {"code": "\u0410803\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 73, "fields": {"code": "\u0410811\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 74, "fields": {"code": "\u0410812\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 75, "fields": {"code": "\u0410813\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 76, "fields": {"code": "\u0410821\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 77, "fields": {"code": "\u0410822\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 78, "fields": {"code": "\u0410823\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 79, "fields": {"code": "\u0410881", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 80, "fields": {"code": "\u0410882", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 81, "fields": {"code": "\u0410891", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 82, "fields": {"code": "\u0410892", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 83, "fields": {"code": "\u0410893", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 84, "fields": {"code": "\u04108\u041c71", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 85, "fields": {"code": "\u04108\u041c81", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 86, "fields": {"code": "\u0410901\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 87, "fields": {"code": "\u0410902\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 88, "fields": {"code": "\u0410911\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 89, "fields": {"code": "\u0410912\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 90, "fields": {"code": "\u0410921\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 91, "fields": {"code": "\u0410922\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 92, "fields": {"code": "\u0410923\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 93, "fields": {"code": "\u0410991", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 94, "fields": {"code": "\u0410992", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 95, "fields": {"code": "\u04109\u041c71", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 96, "fields": {"code": "\u04109\u041c72", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 97, "fields": {"code": "\u04109\u041c81", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 98, "fields": {"code": "\u04109\u041c82", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 99, "fields": {"code": "\u0412\u04154\u041c81", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 100, "fields": {"code": "\u0412\u04155\u041c81", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 101, "fields": {"code": "\u0412\u04155\u041c82", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 102, "fields": {"code": "\u0412\u04157\u041c81", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 103, "fields": {"code": "\u0412\u0418921\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 104, "fields": {"code": "\u0412\u04189\u041c81", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 105, "fields": {"code": "\u0412\u0420111\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 106, "fields": {"code": "\u0412\u0420112\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 107, "fields": {"code": "\u0412\u0420121\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 108, "fields": {"code": "\u0412\u0420122\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 109, "fields": {"code": "\u0412\u0420123\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 110, "fields": {"code": "\u0412\u0420411\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 111, "fields": {"code": "\u0412\u0420421\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 112, "fields": {"code": "\u0415101\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 113, "fields": {"code": "\u0415102\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 114, "fields": {"code": "\u0415103\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 115, "fields": {"code": "\u0415111\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 116, "fields": {"code": "\u0415112\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 117, "fields": {"code": "\u0415113\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 118, "fields": {"code": "\u0415121\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 119, "fields": {"code": "\u0415122\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 120, "fields": {"code": "\u0415123\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 121, "fields": {"code": "\u0415181", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 122, "fields": {"code": "\u0415191", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 123, "fields": {"code": "\u0415192", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 124, "fields": {"code": "\u0415201\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 125, "fields": {"code": "\u0415202\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 126, "fields": {"code": "\u0415211\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 127, "fields": {"code": "\u0415212\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 128, "fields": {"code": "\u0415221\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 129, "fields": {"code": "\u0415222\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 130, "fields": {"code": "\u0415291", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 131, "fields": {"code": "\u0415292", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 132, "fields": {"code": "\u04152\u041c71", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 133, "fields": {"code": "\u04152\u041c81", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 134, "fields": {"code": "\u0415301\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 135, "fields": {"code": "\u0415302\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 136, "fields": {"code": "\u0415311\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 137, "fields": {"code": "\u0415312\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 138, "fields": {"code": "\u0415321\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 139, "fields": {"code": "\u0415322\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 140, "fields": {"code": "\u0415381", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 141, "fields": {"code": "\u0415391", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 142, "fields": {"code": "\u0415401\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 143, "fields": {"code": "\u0415402\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 144, "fields": {"code": "\u0415403\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 145, "fields": {"code": "\u0415411\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 146, "fields": {"code": "\u0415412\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 147, "fields": {"code": "\u0415413\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 148, "fields": {"code": "\u0415421\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 149, "fields": {"code": "\u0415422\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 150, "fields": {"code": "\u0415423\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 151, "fields": {"code": "\u0415481", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 152, "fields": {"code": "\u0415491", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 153, "fields": {"code": "\u0415493", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 154, "fields": {"code": "\u04154\u041c71", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 155, "fields": {"code": "\u04154\u041c81", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 156, "fields": {"code": "\u0415501\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 157, "fields": {"code": "\u0415511\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 158, "fields": {"code": "\u0415521\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 159, "fields": {"code": "\u0415522\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 160, "fields": {"code": "\u04155\u041c71", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 161, "fields": {"code": "\u04155\u041c81", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 162, "fields": {"code": "\u0415601\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 163, "fields": {"code": "\u0415602\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 164, "fields": {"code": "\u0415611\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 165, "fields": {"code": "\u0415612\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 166, "fields": {"code": "\u0415621\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 167, "fields": {"code": "\u0415622\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 168, "fields": {"code": "\u0415681", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 169, "fields": {"code": "\u0415691", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 170, "fields": {"code": "\u0415692", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 171, "fields": {"code": "\u04156\u041c71", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 172, "fields": {"code": "\u04156\u041c81", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 173, "fields": {"code": "\u0415701\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 174, "fields": {"code": "\u0415702\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 175, "fields": {"code": "\u0415711\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 176, "fields": {"code": "\u0415712\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 177, "fields": {"code": "\u0415721\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 178, "fields": {"code": "\u0415722\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 179, "fields": {"code": "\u0415791", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 180, "fields": {"code": "\u0415792", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 181, "fields": {"code": "\u04157\u041c71", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 182, "fields": {"code": "\u04157\u041c72", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 183, "fields": {"code": "\u04157\u041c81", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 184, "fields": {"code": "\u04157\u041c82", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 185, "fields": {"code": "\u0418101\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 186, "fields": {"code": "\u0418102\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 187, "fields": {"code": "\u0418103\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 188, "fields": {"code": "\u0418111\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 189, "fields": {"code": "\u0418112\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 190, "fields": {"code": "\u0418113\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 191, "fields": {"code": "\u0418114\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 192, "fields": {"code": "\u0418121\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 193, "fields": {"code": "\u0418123\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 194, "fields": {"code": "\u0418191", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 195, "fields": {"code": "\u0418192", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 196, "fields": {"code": "\u0418193", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 197, "fields": {"code": "\u04181\u041c71", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 198, "fields": {"code": "\u04181\u041c81", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 199, "fields": {"code": "\u0418291", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 200, "fields": {"code": "\u0418292", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 201, "fields": {"code": "\u0418401\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 202, "fields": {"code": "\u0418402\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 203, "fields": {"code": "\u0418403\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 204, "fields": {"code": "\u0418404\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 205, "fields": {"code": "\u0418405\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 206, "fields": {"code": "\u0418406\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 207, "fields": {"code": "\u0418407\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 208, "fields": {"code": "\u0418411\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 209, "fields": {"code": "\u0418412\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 210, "fields": {"code": "\u0418413\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 211, "fields": {"code": "\u0418414\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 212, "fields": {"code": "\u0418415\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 213, "fields": {"code": "\u0418416\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 214, "fields": {"code": "\u0418421\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 215, "fields": {"code": "\u0418422\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 216, "fields": {"code": "\u0418423\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 217, "fields": {"code": "\u0418424\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 218, "fields": {"code": "\u0418425\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 219, "fields": {"code": "\u0418426\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 220, "fields": {"code": "\u0418427\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 221, "fields": {"code": "\u0418481", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 222, "fields": {"code": "\u0418491", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 223, "fields": {"code": "\u0418492", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 224, "fields": {"code": "\u0418493", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 225, "fields": {"code": "\u0418494", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 226, "fields": {"code": "\u04184\u041c81", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 227, "fields": {"code": "\u0418501\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 228, "fields": {"code": "\u0418502\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 229, "fields": {"code": "\u0418503\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 230, "fields": {"code": "\u0418504\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 231, "fields": {"code": "\u0418505\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 232, "fields": {"code": "\u0418506\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 233, "fields": {"code": "\u0418507\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 234, "fields": {"code": "\u0418508\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 235, "fields": {"code": "\u0418591", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 236, "fields": {"code": "\u0418592", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 237, "fields": {"code": "\u0418594", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 238, "fields": {"code": "\u0418595", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 239, "fields": {"code": "\u0418596", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 240, "fields": {"code": "\u0418801\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 241, "fields": {"code": "\u0418802\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 242, "fields": {"code": "\u0418811\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 243, "fields": {"code": "\u0418812\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 244, "fields": {"code": "\u0418821\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 245, "fields": {"code": "\u0418891", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 246, "fields": {"code": "\u0418892", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 247, "fields": {"code": "\u04188\u041c71", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 248, "fields": {"code": "\u04188\u041c73", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 249, "fields": {"code": "\u04188\u041c81", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 250, "fields": {"code": "\u04188\u041c82", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 251, "fields": {"code": "\u0418901\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 252, "fields": {"code": "\u0418902\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 253, "fields": {"code": "\u0418903\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 254, "fields": {"code": "\u0418904\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 255, "fields": {"code": "\u0418911\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 256, "fields": {"code": "\u0418912\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 257, "fields": {"code": "\u0418913\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 258, "fields": {"code": "\u0418914\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 259, "fields": {"code": "\u0418921\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 260, "fields": {"code": "\u0418922\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 261, "fields": {"code": "\u0418923\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 262, "fields": {"code": "\u0418924\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 263, "fields": {"code": "\u0418981", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 264, "fields": {"code": "\u0418991", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 265, "fields": {"code": "\u0418992", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 266, "fields": {"code": "\u0418993", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 267, "fields": {"code": "\u04189\u041c71", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 268, "fields": {"code": "\u04189\u041c81", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 269, "fields": {"code": "\u041a\u041201", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 270, "fields": {"code": "\u041a\u041211", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 271, "fields": {"code": "\u041a\u041221", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 272, "fields": {"code": "\u041a\u041222", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 273, "fields": {"code": "\u041a\u041281", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 274, "fields": {"code": "\u041a\u041282", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 275, "fields": {"code": "\u041a\u041283", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 276, "fields": {"code": "\u041a\u041291", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 277, "fields": {"code": "\u041a\u041f\u042001", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 278, "fields": {"code": "\u041a\u041f\u042002", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 279, "fields": {"code": "\u041a\u041f\u0420701", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 280, "fields": {"code": "\u041a\u041f\u042091", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 281, "fields": {"code": "\u041a\u041f\u042092", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 282, "fields": {"code": "\u041e191", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 283, "fields": {"code": "\u041e201\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 284, "fields": {"code": "\u041e202\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 285, "fields": {"code": "\u041e211\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 286, "fields": {"code": "\u041e212\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 287, "fields": {"code": "\u041e221\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 288, "fields": {"code": "\u041e222\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 289, "fields": {"code": "\u041e2\u041c71", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 290, "fields": {"code": "\u041e2\u041c81", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 291, "fields": {"code": "\u041e2\u041c82", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 292, "fields": {"code": "\u041e401\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 293, "fields": {"code": "\u041e491", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 294, "fields": {"code": "\u041e711\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 295, "fields": {"code": "\u041e712\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 296, "fields": {"code": "\u041e713\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 297, "fields": {"code": "\u041e714\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 298, "fields": {"code": "\u041e715\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 299, "fields": {"code": "\u041e716\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 300, "fields": {"code": "\u041e717\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 301, "fields": {"code": "\u041e718\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 302, "fields": {"code": "\u041e719\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 303, "fields": {"code": "\u041e721\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 304, "fields": {"code": "\u041e722\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 305, "fields": {"code": "\u041e723\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 306, "fields": {"code": "\u041e724\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 307, "fields": {"code": "\u041e725\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 308, "fields": {"code": "\u041e726\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 309, "fields": {"code": "\u041e727\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 310, "fields": {"code": "\u041e728\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 311, "fields": {"code": "\u041e729\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 312, "fields": {"code": "\u041e7\u041c71", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 313, "fields": {"code": "\u041e7\u041c81", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 314, "fields": {"code": "\u0420101\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 315, "fields": {"code": "\u0420102\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 316, "fields": {"code": "\u0420104\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 317, "fields": {"code": "\u0420105\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 318, "fields": {"code": "\u0420107\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 319, "fields": {"code": "\u0420111\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 320, "fields": {"code": "\u0420112\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 321, "fields": {"code": "\u0420113\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 322, "fields": {"code": "\u0420114\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 323, "fields": {"code": "\u0420121\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 324, "fields": {"code": "\u0420123\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 325, "fields": {"code": "\u0420124\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 326, "fields": {"code": "\u0420125\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 327, "fields": {"code": "\u0420126\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 328, "fields": {"code": "\u0420154*", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 329, "fields": {"code": "\u0420155*", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 330, "fields": {"code": "\u0420156*", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 331, "fields": {"code": "\u0420158*", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 332, "fields": {"code": "\u0420191", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 333, "fields": {"code": "\u0420193", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 334, "fields": {"code": "\u04201\u041c71", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 335, "fields": {"code": "\u04201\u041c72", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 336, "fields": {"code": "\u04201\u041c73", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 337, "fields": {"code": "\u04201\u041c74", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 338, "fields": {"code": "\u04201\u041c81", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 339, "fields": {"code": "\u04201\u041c82", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 340, "fields": {"code": "\u04201\u041c83", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 341, "fields": {"code": "\u04201\u041c84", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 342, "fields": {"code": "\u0420401\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 343, "fields": {"code": "\u0420402\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 344, "fields": {"code": "\u0420411\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 345, "fields": {"code": "\u0420412\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 346, "fields": {"code": "\u0420413\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 347, "fields": {"code": "\u0420421\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 348, "fields": {"code": "\u0420422\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 349, "fields": {"code": "\u0420491", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 350, "fields": {"code": "\u04204\u041c71", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 351, "fields": {"code": "\u04204\u041c81", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 352, "fields": {"code": "\u0420701\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 353, "fields": {"code": "\u0420702\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 354, "fields": {"code": "\u0420703\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 355, "fields": {"code": "\u0420704\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 356, "fields": {"code": "\u0420705\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 357, "fields": {"code": "\u0420706\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 358, "fields": {"code": "\u0420707\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 359, "fields": {"code": "\u0420708\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 360, "fields": {"code": "\u0420711\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 361, "fields": {"code": "\u0420712\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 362, "fields": {"code": "\u0420714\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 363, "fields": {"code": "\u0420715\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 364, "fields": {"code": "\u0420716\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 365, "fields": {"code": "\u0420721\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 366, "fields": {"code": "\u0420722\u0411", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 367, "fields": {"code": "\u0420725\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 368, "fields": {"code": "\u0420726\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 369, "fields": {"code": "\u0420727\u0421", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 370, "fields": {"code": "\u0420783", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 371, "fields": {"code": "\u0420784", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 372, "fields": {"code": "\u0420785", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 373, "fields": {"code": "\u0420791", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 374, "fields": {"code": "\u0420793", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}, {"model": "api.group", "pk": 375, "fields": {"code": "\u0420794", "created_at": "2017-06-18T07:06:03.348Z", "updated_at": "2017-06-18T07:06:03.348Z"}}]
+[
+  {
+    "model": "api.group",
+    "pk": 1,
+    "fields": {
+      "code": "\u0410101\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 2,
+    "fields": {
+      "code": "\u0410102\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 3,
+    "fields": {
+      "code": "\u0410103\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 4,
+    "fields": {
+      "code": "\u0410104\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 5,
+    "fields": {
+      "code": "\u0410105\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 6,
+    "fields": {
+      "code": "\u0410111\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 7,
+    "fields": {
+      "code": "\u0410112\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 8,
+    "fields": {
+      "code": "\u0410113\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 9,
+    "fields": {
+      "code": "\u0410114\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 10,
+    "fields": {
+      "code": "\u0410115\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 11,
+    "fields": {
+      "code": "\u0410121\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 12,
+    "fields": {
+      "code": "\u0410122\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 13,
+    "fields": {
+      "code": "\u0410123\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 14,
+    "fields": {
+      "code": "\u0410124\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 15,
+    "fields": {
+      "code": "\u0410125\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 16,
+    "fields": {
+      "code": "\u0410181",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 17,
+    "fields": {
+      "code": "\u0410182",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 18,
+    "fields": {
+      "code": "\u0410184",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 19,
+    "fields": {
+      "code": "\u0410191",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 20,
+    "fields": {
+      "code": "\u0410192",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 21,
+    "fields": {
+      "code": "\u0410193",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 22,
+    "fields": {
+      "code": "\u0410194",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 23,
+    "fields": {
+      "code": "\u04101\u041c71",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 24,
+    "fields": {
+      "code": "\u04101\u041c72",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 25,
+    "fields": {
+      "code": "\u04101\u041c81",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 26,
+    "fields": {
+      "code": "\u04101\u041c82",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 27,
+    "fields": {
+      "code": "\u0410211\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 28,
+    "fields": {
+      "code": "\u0410221\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 29,
+    "fields": {
+      "code": "\u0410301\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 30,
+    "fields": {
+      "code": "\u0410302\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 31,
+    "fields": {
+      "code": "\u0410303\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 32,
+    "fields": {
+      "code": "\u0410311\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 33,
+    "fields": {
+      "code": "\u0410312\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 34,
+    "fields": {
+      "code": "\u0410313\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 35,
+    "fields": {
+      "code": "\u0410321\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 36,
+    "fields": {
+      "code": "\u0410322\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 37,
+    "fields": {
+      "code": "\u0410323\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 38,
+    "fields": {
+      "code": "\u0410324\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 39,
+    "fields": {
+      "code": "\u0410381",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 40,
+    "fields": {
+      "code": "\u0410391",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 41,
+    "fields": {
+      "code": "\u0410392",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 42,
+    "fields": {
+      "code": "\u0410393",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 43,
+    "fields": {
+      "code": "\u04103\u041c71",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 44,
+    "fields": {
+      "code": "\u04103\u041c72",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 45,
+    "fields": {
+      "code": "\u04103\u041c73",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 46,
+    "fields": {
+      "code": "\u04103\u041c81",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 47,
+    "fields": {
+      "code": "\u04103\u041c82",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 48,
+    "fields": {
+      "code": "\u04103\u041c83",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 49,
+    "fields": {
+      "code": "\u0410401\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 50,
+    "fields": {
+      "code": "\u0410402\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 51,
+    "fields": {
+      "code": "\u0410411\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 52,
+    "fields": {
+      "code": "\u0410412\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 53,
+    "fields": {
+      "code": "\u0410421\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 54,
+    "fields": {
+      "code": "\u0410422\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 55,
+    "fields": {
+      "code": "\u0410481",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 56,
+    "fields": {
+      "code": "\u0410491",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 57,
+    "fields": {
+      "code": "\u0410492",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 58,
+    "fields": {
+      "code": "\u04104\u041c71",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 59,
+    "fields": {
+      "code": "\u04104\u041c81",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 60,
+    "fields": {
+      "code": "\u0410501\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 61,
+    "fields": {
+      "code": "\u0410502\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 62,
+    "fields": {
+      "code": "\u0410511\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 63,
+    "fields": {
+      "code": "\u0410512\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 64,
+    "fields": {
+      "code": "\u0410521\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 65,
+    "fields": {
+      "code": "\u0410581",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 66,
+    "fields": {
+      "code": "\u0410591",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 67,
+    "fields": {
+      "code": "\u0410592",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 68,
+    "fields": {
+      "code": "\u04105\u041c71",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 69,
+    "fields": {
+      "code": "\u04105\u041c81",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 70,
+    "fields": {
+      "code": "\u0410801\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 71,
+    "fields": {
+      "code": "\u0410802\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 72,
+    "fields": {
+      "code": "\u0410803\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 73,
+    "fields": {
+      "code": "\u0410811\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 74,
+    "fields": {
+      "code": "\u0410812\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 75,
+    "fields": {
+      "code": "\u0410813\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 76,
+    "fields": {
+      "code": "\u0410821\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 77,
+    "fields": {
+      "code": "\u0410822\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 78,
+    "fields": {
+      "code": "\u0410823\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 79,
+    "fields": {
+      "code": "\u0410881",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 80,
+    "fields": {
+      "code": "\u0410882",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 81,
+    "fields": {
+      "code": "\u0410891",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 82,
+    "fields": {
+      "code": "\u0410892",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 83,
+    "fields": {
+      "code": "\u0410893",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 84,
+    "fields": {
+      "code": "\u04108\u041c71",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 85,
+    "fields": {
+      "code": "\u04108\u041c81",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 86,
+    "fields": {
+      "code": "\u0410901\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 87,
+    "fields": {
+      "code": "\u0410902\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 88,
+    "fields": {
+      "code": "\u0410911\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 89,
+    "fields": {
+      "code": "\u0410912\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 90,
+    "fields": {
+      "code": "\u0410921\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 91,
+    "fields": {
+      "code": "\u0410922\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 92,
+    "fields": {
+      "code": "\u0410923\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 93,
+    "fields": {
+      "code": "\u0410991",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 94,
+    "fields": {
+      "code": "\u0410992",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 95,
+    "fields": {
+      "code": "\u04109\u041c71",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 96,
+    "fields": {
+      "code": "\u04109\u041c72",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 97,
+    "fields": {
+      "code": "\u04109\u041c81",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 98,
+    "fields": {
+      "code": "\u04109\u041c82",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 99,
+    "fields": {
+      "code": "\u0412\u04154\u041c81",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 100,
+    "fields": {
+      "code": "\u0412\u04155\u041c81",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 101,
+    "fields": {
+      "code": "\u0412\u04155\u041c82",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 102,
+    "fields": {
+      "code": "\u0412\u04157\u041c81",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 103,
+    "fields": {
+      "code": "\u0412\u0418921\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 104,
+    "fields": {
+      "code": "\u0412\u04189\u041c81",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 105,
+    "fields": {
+      "code": "\u0412\u0420111\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 106,
+    "fields": {
+      "code": "\u0412\u0420112\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 107,
+    "fields": {
+      "code": "\u0412\u0420121\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 108,
+    "fields": {
+      "code": "\u0412\u0420122\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 109,
+    "fields": {
+      "code": "\u0412\u0420123\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 110,
+    "fields": {
+      "code": "\u0412\u0420411\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 111,
+    "fields": {
+      "code": "\u0412\u0420421\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 112,
+    "fields": {
+      "code": "\u0415101\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 113,
+    "fields": {
+      "code": "\u0415102\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 114,
+    "fields": {
+      "code": "\u0415103\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 115,
+    "fields": {
+      "code": "\u0415111\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 116,
+    "fields": {
+      "code": "\u0415112\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 117,
+    "fields": {
+      "code": "\u0415113\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 118,
+    "fields": {
+      "code": "\u0415121\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 119,
+    "fields": {
+      "code": "\u0415122\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 120,
+    "fields": {
+      "code": "\u0415123\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 121,
+    "fields": {
+      "code": "\u0415181",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 122,
+    "fields": {
+      "code": "\u0415191",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 123,
+    "fields": {
+      "code": "\u0415192",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 124,
+    "fields": {
+      "code": "\u0415201\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 125,
+    "fields": {
+      "code": "\u0415202\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 126,
+    "fields": {
+      "code": "\u0415211\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 127,
+    "fields": {
+      "code": "\u0415212\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 128,
+    "fields": {
+      "code": "\u0415221\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 129,
+    "fields": {
+      "code": "\u0415222\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 130,
+    "fields": {
+      "code": "\u0415291",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 131,
+    "fields": {
+      "code": "\u0415292",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 132,
+    "fields": {
+      "code": "\u04152\u041c71",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 133,
+    "fields": {
+      "code": "\u04152\u041c81",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 134,
+    "fields": {
+      "code": "\u0415301\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 135,
+    "fields": {
+      "code": "\u0415302\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 136,
+    "fields": {
+      "code": "\u0415311\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 137,
+    "fields": {
+      "code": "\u0415312\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 138,
+    "fields": {
+      "code": "\u0415321\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 139,
+    "fields": {
+      "code": "\u0415322\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 140,
+    "fields": {
+      "code": "\u0415381",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 141,
+    "fields": {
+      "code": "\u0415391",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 142,
+    "fields": {
+      "code": "\u0415401\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 143,
+    "fields": {
+      "code": "\u0415402\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 144,
+    "fields": {
+      "code": "\u0415403\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 145,
+    "fields": {
+      "code": "\u0415411\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 146,
+    "fields": {
+      "code": "\u0415412\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 147,
+    "fields": {
+      "code": "\u0415413\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 148,
+    "fields": {
+      "code": "\u0415421\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 149,
+    "fields": {
+      "code": "\u0415422\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 150,
+    "fields": {
+      "code": "\u0415423\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 151,
+    "fields": {
+      "code": "\u0415481",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 152,
+    "fields": {
+      "code": "\u0415491",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 153,
+    "fields": {
+      "code": "\u0415493",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 154,
+    "fields": {
+      "code": "\u04154\u041c71",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 155,
+    "fields": {
+      "code": "\u04154\u041c81",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 156,
+    "fields": {
+      "code": "\u0415501\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 157,
+    "fields": {
+      "code": "\u0415511\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 158,
+    "fields": {
+      "code": "\u0415521\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 159,
+    "fields": {
+      "code": "\u0415522\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 160,
+    "fields": {
+      "code": "\u04155\u041c71",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 161,
+    "fields": {
+      "code": "\u04155\u041c81",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 162,
+    "fields": {
+      "code": "\u0415601\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 163,
+    "fields": {
+      "code": "\u0415602\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 164,
+    "fields": {
+      "code": "\u0415611\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 165,
+    "fields": {
+      "code": "\u0415612\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 166,
+    "fields": {
+      "code": "\u0415621\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 167,
+    "fields": {
+      "code": "\u0415622\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 168,
+    "fields": {
+      "code": "\u0415681",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 169,
+    "fields": {
+      "code": "\u0415691",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 170,
+    "fields": {
+      "code": "\u0415692",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 171,
+    "fields": {
+      "code": "\u04156\u041c71",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 172,
+    "fields": {
+      "code": "\u04156\u041c81",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 173,
+    "fields": {
+      "code": "\u0415701\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 174,
+    "fields": {
+      "code": "\u0415702\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 175,
+    "fields": {
+      "code": "\u0415711\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 176,
+    "fields": {
+      "code": "\u0415712\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 177,
+    "fields": {
+      "code": "\u0415721\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 178,
+    "fields": {
+      "code": "\u0415722\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 179,
+    "fields": {
+      "code": "\u0415791",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 180,
+    "fields": {
+      "code": "\u0415792",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 181,
+    "fields": {
+      "code": "\u04157\u041c71",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 182,
+    "fields": {
+      "code": "\u04157\u041c72",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 183,
+    "fields": {
+      "code": "\u04157\u041c81",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 184,
+    "fields": {
+      "code": "\u04157\u041c82",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 185,
+    "fields": {
+      "code": "\u0418101\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 186,
+    "fields": {
+      "code": "\u0418102\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 187,
+    "fields": {
+      "code": "\u0418103\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 188,
+    "fields": {
+      "code": "\u0418111\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 189,
+    "fields": {
+      "code": "\u0418112\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 190,
+    "fields": {
+      "code": "\u0418113\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 191,
+    "fields": {
+      "code": "\u0418114\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 192,
+    "fields": {
+      "code": "\u0418121\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 193,
+    "fields": {
+      "code": "\u0418123\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 194,
+    "fields": {
+      "code": "\u0418191",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 195,
+    "fields": {
+      "code": "\u0418192",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 196,
+    "fields": {
+      "code": "\u0418193",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 197,
+    "fields": {
+      "code": "\u04181\u041c71",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 198,
+    "fields": {
+      "code": "\u04181\u041c81",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 199,
+    "fields": {
+      "code": "\u0418291",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 200,
+    "fields": {
+      "code": "\u0418292",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 201,
+    "fields": {
+      "code": "\u0418401\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 202,
+    "fields": {
+      "code": "\u0418402\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 203,
+    "fields": {
+      "code": "\u0418403\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 204,
+    "fields": {
+      "code": "\u0418404\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 205,
+    "fields": {
+      "code": "\u0418405\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 206,
+    "fields": {
+      "code": "\u0418406\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 207,
+    "fields": {
+      "code": "\u0418407\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 208,
+    "fields": {
+      "code": "\u0418411\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 209,
+    "fields": {
+      "code": "\u0418412\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 210,
+    "fields": {
+      "code": "\u0418413\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 211,
+    "fields": {
+      "code": "\u0418414\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 212,
+    "fields": {
+      "code": "\u0418415\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 213,
+    "fields": {
+      "code": "\u0418416\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 214,
+    "fields": {
+      "code": "\u0418421\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 215,
+    "fields": {
+      "code": "\u0418422\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 216,
+    "fields": {
+      "code": "\u0418423\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 217,
+    "fields": {
+      "code": "\u0418424\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 218,
+    "fields": {
+      "code": "\u0418425\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 219,
+    "fields": {
+      "code": "\u0418426\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 220,
+    "fields": {
+      "code": "\u0418427\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 221,
+    "fields": {
+      "code": "\u0418481",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 222,
+    "fields": {
+      "code": "\u0418491",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 223,
+    "fields": {
+      "code": "\u0418492",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 224,
+    "fields": {
+      "code": "\u0418493",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 225,
+    "fields": {
+      "code": "\u0418494",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 226,
+    "fields": {
+      "code": "\u04184\u041c81",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 227,
+    "fields": {
+      "code": "\u0418501\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 228,
+    "fields": {
+      "code": "\u0418502\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 229,
+    "fields": {
+      "code": "\u0418503\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 230,
+    "fields": {
+      "code": "\u0418504\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 231,
+    "fields": {
+      "code": "\u0418505\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 232,
+    "fields": {
+      "code": "\u0418506\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 233,
+    "fields": {
+      "code": "\u0418507\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 234,
+    "fields": {
+      "code": "\u0418508\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 235,
+    "fields": {
+      "code": "\u0418591",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 236,
+    "fields": {
+      "code": "\u0418592",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 237,
+    "fields": {
+      "code": "\u0418594",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 238,
+    "fields": {
+      "code": "\u0418595",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 239,
+    "fields": {
+      "code": "\u0418596",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 240,
+    "fields": {
+      "code": "\u0418801\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 241,
+    "fields": {
+      "code": "\u0418802\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 242,
+    "fields": {
+      "code": "\u0418811\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 243,
+    "fields": {
+      "code": "\u0418812\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 244,
+    "fields": {
+      "code": "\u0418821\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 245,
+    "fields": {
+      "code": "\u0418891",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 246,
+    "fields": {
+      "code": "\u0418892",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 247,
+    "fields": {
+      "code": "\u04188\u041c71",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 248,
+    "fields": {
+      "code": "\u04188\u041c73",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 249,
+    "fields": {
+      "code": "\u04188\u041c81",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 250,
+    "fields": {
+      "code": "\u04188\u041c82",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 251,
+    "fields": {
+      "code": "\u0418901\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 252,
+    "fields": {
+      "code": "\u0418902\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 253,
+    "fields": {
+      "code": "\u0418903\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 254,
+    "fields": {
+      "code": "\u0418904\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 255,
+    "fields": {
+      "code": "\u0418911\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 256,
+    "fields": {
+      "code": "\u0418912\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 257,
+    "fields": {
+      "code": "\u0418913\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 258,
+    "fields": {
+      "code": "\u0418914\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 259,
+    "fields": {
+      "code": "\u0418921\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 260,
+    "fields": {
+      "code": "\u0418922\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 261,
+    "fields": {
+      "code": "\u0418923\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 262,
+    "fields": {
+      "code": "\u0418924\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 263,
+    "fields": {
+      "code": "\u0418981",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 264,
+    "fields": {
+      "code": "\u0418991",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 265,
+    "fields": {
+      "code": "\u0418992",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 266,
+    "fields": {
+      "code": "\u0418993",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 267,
+    "fields": {
+      "code": "\u04189\u041c71",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 268,
+    "fields": {
+      "code": "\u04189\u041c81",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 269,
+    "fields": {
+      "code": "\u041a\u041201",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 270,
+    "fields": {
+      "code": "\u041a\u041211",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 271,
+    "fields": {
+      "code": "\u041a\u041221",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 272,
+    "fields": {
+      "code": "\u041a\u041222",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 273,
+    "fields": {
+      "code": "\u041a\u041281",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 274,
+    "fields": {
+      "code": "\u041a\u041282",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 275,
+    "fields": {
+      "code": "\u041a\u041283",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 276,
+    "fields": {
+      "code": "\u041a\u041291",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 277,
+    "fields": {
+      "code": "\u041a\u041f\u042001",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 278,
+    "fields": {
+      "code": "\u041a\u041f\u042002",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 279,
+    "fields": {
+      "code": "\u041a\u041f\u0420701",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 280,
+    "fields": {
+      "code": "\u041a\u041f\u042091",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 281,
+    "fields": {
+      "code": "\u041a\u041f\u042092",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 282,
+    "fields": {
+      "code": "\u041e191",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 283,
+    "fields": {
+      "code": "\u041e201\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 284,
+    "fields": {
+      "code": "\u041e202\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 285,
+    "fields": {
+      "code": "\u041e211\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 286,
+    "fields": {
+      "code": "\u041e212\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 287,
+    "fields": {
+      "code": "\u041e221\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 288,
+    "fields": {
+      "code": "\u041e222\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 289,
+    "fields": {
+      "code": "\u041e2\u041c71",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 290,
+    "fields": {
+      "code": "\u041e2\u041c81",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 291,
+    "fields": {
+      "code": "\u041e2\u041c82",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 292,
+    "fields": {
+      "code": "\u041e401\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 293,
+    "fields": {
+      "code": "\u041e491",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 294,
+    "fields": {
+      "code": "\u041e711\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 295,
+    "fields": {
+      "code": "\u041e712\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 296,
+    "fields": {
+      "code": "\u041e713\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 297,
+    "fields": {
+      "code": "\u041e714\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 298,
+    "fields": {
+      "code": "\u041e715\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 299,
+    "fields": {
+      "code": "\u041e716\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 300,
+    "fields": {
+      "code": "\u041e717\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 301,
+    "fields": {
+      "code": "\u041e718\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 302,
+    "fields": {
+      "code": "\u041e719\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 303,
+    "fields": {
+      "code": "\u041e721\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 304,
+    "fields": {
+      "code": "\u041e722\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 305,
+    "fields": {
+      "code": "\u041e723\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 306,
+    "fields": {
+      "code": "\u041e724\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 307,
+    "fields": {
+      "code": "\u041e725\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 308,
+    "fields": {
+      "code": "\u041e726\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 309,
+    "fields": {
+      "code": "\u041e727\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 310,
+    "fields": {
+      "code": "\u041e728\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 311,
+    "fields": {
+      "code": "\u041e729\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 312,
+    "fields": {
+      "code": "\u041e7\u041c71",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 313,
+    "fields": {
+      "code": "\u041e7\u041c81",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 314,
+    "fields": {
+      "code": "\u0420101\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 315,
+    "fields": {
+      "code": "\u0420102\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 316,
+    "fields": {
+      "code": "\u0420104\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 317,
+    "fields": {
+      "code": "\u0420105\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 318,
+    "fields": {
+      "code": "\u0420107\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 319,
+    "fields": {
+      "code": "\u0420111\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 320,
+    "fields": {
+      "code": "\u0420112\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 321,
+    "fields": {
+      "code": "\u0420113\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 322,
+    "fields": {
+      "code": "\u0420114\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 323,
+    "fields": {
+      "code": "\u0420121\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 324,
+    "fields": {
+      "code": "\u0420123\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 325,
+    "fields": {
+      "code": "\u0420124\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 326,
+    "fields": {
+      "code": "\u0420125\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 327,
+    "fields": {
+      "code": "\u0420126\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 328,
+    "fields": {
+      "code": "\u0420154*",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 329,
+    "fields": {
+      "code": "\u0420155*",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 330,
+    "fields": {
+      "code": "\u0420156*",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 331,
+    "fields": {
+      "code": "\u0420158*",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 332,
+    "fields": {
+      "code": "\u0420191",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 333,
+    "fields": {
+      "code": "\u0420193",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 334,
+    "fields": {
+      "code": "\u04201\u041c71",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 335,
+    "fields": {
+      "code": "\u04201\u041c72",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 336,
+    "fields": {
+      "code": "\u04201\u041c73",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 337,
+    "fields": {
+      "code": "\u04201\u041c74",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 338,
+    "fields": {
+      "code": "\u04201\u041c81",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 339,
+    "fields": {
+      "code": "\u04201\u041c82",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 340,
+    "fields": {
+      "code": "\u04201\u041c83",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 341,
+    "fields": {
+      "code": "\u04201\u041c84",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 342,
+    "fields": {
+      "code": "\u0420401\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 343,
+    "fields": {
+      "code": "\u0420402\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 344,
+    "fields": {
+      "code": "\u0420411\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 345,
+    "fields": {
+      "code": "\u0420412\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 346,
+    "fields": {
+      "code": "\u0420413\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 347,
+    "fields": {
+      "code": "\u0420421\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 348,
+    "fields": {
+      "code": "\u0420422\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 349,
+    "fields": {
+      "code": "\u0420491",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 350,
+    "fields": {
+      "code": "\u04204\u041c71",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 351,
+    "fields": {
+      "code": "\u04204\u041c81",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 352,
+    "fields": {
+      "code": "\u0420701\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 353,
+    "fields": {
+      "code": "\u0420702\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 354,
+    "fields": {
+      "code": "\u0420703\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 355,
+    "fields": {
+      "code": "\u0420704\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 356,
+    "fields": {
+      "code": "\u0420705\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 357,
+    "fields": {
+      "code": "\u0420706\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 358,
+    "fields": {
+      "code": "\u0420707\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 359,
+    "fields": {
+      "code": "\u0420708\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 360,
+    "fields": {
+      "code": "\u0420711\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 361,
+    "fields": {
+      "code": "\u0420712\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 362,
+    "fields": {
+      "code": "\u0420714\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 363,
+    "fields": {
+      "code": "\u0420715\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 364,
+    "fields": {
+      "code": "\u0420716\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 365,
+    "fields": {
+      "code": "\u0420721\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 366,
+    "fields": {
+      "code": "\u0420722\u0411",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 367,
+    "fields": {
+      "code": "\u0420725\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 368,
+    "fields": {
+      "code": "\u0420726\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 369,
+    "fields": {
+      "code": "\u0420727\u0421",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 370,
+    "fields": {
+      "code": "\u0420783",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 371,
+    "fields": {
+      "code": "\u0420784",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 372,
+    "fields": {
+      "code": "\u0420785",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 373,
+    "fields": {
+      "code": "\u0420791",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 374,
+    "fields": {
+      "code": "\u0420793",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  },
+  {
+    "model": "api.group",
+    "pk": 375,
+    "fields": {
+      "code": "\u0420794",
+      "created_at": "2017-06-18T07:06:03.348Z",
+      "updated_at": "2017-06-18T07:06:03.348Z"
+    }
+  }
+]
