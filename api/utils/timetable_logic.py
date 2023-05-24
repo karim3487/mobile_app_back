@@ -1,4 +1,4 @@
-from datetime import datetime, timedelta
+import datetime
 from rest_framework.exceptions import ValidationError
 
 
@@ -9,7 +9,7 @@ def get_date(date):
     if date:
         try:
             date = date[:10]
-            return datetime.strptime(date, date_format)
+            return datetime.datetime.strptime(date, date_format)
         except:
             raise ValidationError(
                 f"Invalid key format: {date}. "
@@ -17,8 +17,18 @@ def get_date(date):
     return None
 
 
+def is_even_week(date):
+    start_date = datetime.date(2023, 2, 5)
+    delta = date.date() - start_date
+    week_number = delta.days // 7
+
+    return week_number % 2 == 0
+
+
 def get_week_timetable(qs, date):
-    return qs.filter(is_even=True)
+    if is_even_week(date):
+        return qs.filter(is_even=True)
+    return qs.filter(is_even=False)
 
 
 def get_day_timetable(qs, today):
@@ -27,6 +37,6 @@ def get_day_timetable(qs, today):
 
 
 def get_monday_and_sunday_of_week(date):
-    monday = date - timedelta(days=date.weekday())
-    sunday = date + timedelta(days=6-date.weekday())
+    monday = date - datetime.timedelta(days=date.weekday())
+    sunday = date + datetime.timedelta(days=6 - date.weekday())
     return monday, sunday
