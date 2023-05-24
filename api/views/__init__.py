@@ -4,4 +4,5 @@ from . import ad
 from . import chat
 from . import attachment
 from . import teacher
+from . import group
 from . import timetable

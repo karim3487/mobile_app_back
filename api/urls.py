@@ -22,9 +22,9 @@ router.register("attachments",
 router.register("teachers",
                 api_app.teacher.TeacherViewSet,
                 basename="teacher")
-# router.register("timetable",
-#                 api_app.timetable.TimetableWeekView,
-#                 basename="timetable")
+router.register("groups",
+                api_app.group.GroupViewSet,
+                basename="group")
 
 timetables = [
     path("<str:code>", api_app.timetable.TimetableWeekView.as_view(),
